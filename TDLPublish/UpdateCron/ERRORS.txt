@@ -1,0 +1,59 @@
+convert.exe: Unknown field with tag 40093 (0x9c9d) encountered. `TIFFReadDirectory' @ warning/tiff.c/TIFFWarnings/824.
+convert.exe: Unknown field with tag 59932 (0xea1c) encountered. `TIFFReadDirectory' @ warning/tiff.c/TIFFWarnings/824.
+convert.exe: Unknown field with tag 59932 (0xea1c) encountered. `TIFFReadCustomDirectory' @ warning/tiff.c/TIFFWarnings/824.
+convert.exe: Unknown field with tag 40093 (0x9c9d) encountered. `TIFFReadDirectory' @ warning/tiff.c/TIFFWarnings/824.
+convert.exe: Unknown field with tag 59932 (0xea1c) encountered. `TIFFReadDirectory' @ warning/tiff.c/TIFFWarnings/824.
+convert.exe: Unknown field with tag 40093 (0x9c9d) encountered. `TIFFReadDirectory' @ warning/tiff.c/TIFFWarnings/824.
+convert.exe: Unknown field with tag 59932 (0xea1c) encountered. `TIFFReadDirectory' @ warning/tiff.c/TIFFWarnings/824.
+convert.exe: Unknown field with tag 59932 (0xea1c) encountered. `TIFFReadCustomDirectory' @ warning/tiff.c/TIFFWarnings/824.
+convert.exe: Unknown field with tag 40093 (0x9c9d) encountered. `TIFFReadDirectory' @ warning/tiff.c/TIFFWarnings/824.
+convert.exe: Unknown field with tag 59932 (0xea1c) encountered. `TIFFReadDirectory' @ warning/tiff.c/TIFFWarnings/824.
+PHP Notice:  Undefined variable: dpsaceID in C:\xampp\htdocs\BandoCat\TDLPublish\UpdateCron\updatecron.php on line 689
+PHP Notice:  Undefined variable: dpsaceID in C:\xampp\htdocs\BandoCat\TDLPublish\UpdateCron\updatecron.php on line 689
+PHP Notice:  Undefined variable: dpsaceID in C:\xampp\htdocs\BandoCat\TDLPublish\UpdateCron\updatecron.php on line 689
+PHP Notice:  Undefined variable: dpsaceID in C:\xampp\htdocs\BandoCat\TDLPublish\UpdateCron\updatecron.php on line 689
+PHP Notice:  Undefined variable: dpsaceID in C:\xampp\htdocs\BandoCat\TDLPublish\UpdateCron\updatecron.php on line 689
+PHP Notice:  Undefined variable: dpsaceID in C:\xampp\htdocs\BandoCat\TDLPublish\UpdateCron\updatecron.php on line 689
+PHP Notice:  Undefined variable: dpsaceID in C:\xampp\htdocs\BandoCat\TDLPublish\UpdateCron\updatecron.php on line 689
+PHP Notice:  Undefined variable: dpsaceID in C:\xampp\htdocs\BandoCat\TDLPublish\UpdateCron\updatecron.php on line 689
+PHP Notice:  Undefined variable: dpsaceID in C:\xampp\htdocs\BandoCat\TDLPublish\UpdateCron\updatecron.php on line 689
+PHP Notice:  Undefined variable: dpsaceID in C:\xampp\htdocs\BandoCat\TDLPublish\UpdateCron\updatecron.php on line 689
+PHP Notice:  Undefined variable: dpsaceID in C:\xampp\htdocs\BandoCat\TDLPublish\UpdateCron\updatecron.php on line 689
+PHP Notice:  Undefined variable: dpsaceID in C:\xampp\htdocs\BandoCat\TDLPublish\UpdateCron\updatecron.php on line 689
+PHP Notice:  Undefined variable: dpsaceID in C:\xampp\htdocs\BandoCat\TDLPublish\UpdateCron\updatecron.php on line 689
+PHP Notice:  Undefined variable: dpsaceID in C:\xampp\htdocs\BandoCat\TDLPublish\UpdateCron\updatecron.php on line 689
+PHP Notice:  Undefined variable: dpsaceID in C:\xampp\htdocs\BandoCat\TDLPublish\UpdateCron\updatecron.php on line 689
+PHP Notice:  Undefined variable: dpsaceID in C:\xampp\htdocs\BandoCat\TDLPublish\UpdateCron\updatecron.php on line 689
+PHP Notice:  Undefined variable: dpsaceID in C:\xampp\htdocs\BandoCat\TDLPublish\UpdateCron\updatecron.php on line 689
+PHP Notice:  Undefined variable: dpsaceID in C:\xampp\htdocs\BandoCat\TDLPublish\UpdateCron\updatecron.php on line 689
+PHP Notice:  Undefined variable: dpsaceID in C:\xampp\htdocs\BandoCat\TDLPublish\UpdateCron\updatecron.php on line 689
+PHP Notice:  Undefined variable: dpsaceID in C:\xampp\htdocs\BandoCat\TDLPublish\UpdateCron\updatecron.php on line 689
+PHP Notice:  Undefined variable: dpsaceID in C:\xampp\htdocs\BandoCat\TDLPublish\UpdateCron\updatecron.php on line 689
+PHP Notice:  Undefined variable: dpsaceID in C:\xampp\htdocs\BandoCat\TDLPublish\UpdateCron\updatecron.php on line 689
+PHP Notice:  Undefined variable: dpsaceID in C:\xampp\htdocs\BandoCat\TDLPublish\UpdateCron\updatecron.php on line 689
+PHP Notice:  Undefined variable: dpsaceID in C:\xampp\htdocs\BandoCat\TDLPublish\UpdateCron\updatecron.php on line 689
+PHP Notice:  Undefined variable: dpsaceID in C:\xampp\htdocs\BandoCat\TDLPublish\UpdateCron\updatecron.php on line 689
+PHP Notice:  Undefined variable: dpsaceID in C:\xampp\htdocs\BandoCat\TDLPublish\UpdateCron\updatecron.php on line 689
+PHP Notice:  Undefined variable: dpsaceID in C:\xampp\htdocs\BandoCat\TDLPublish\UpdateCron\updatecron.php on line 689
+PHP Notice:  Undefined variable: dpsaceID in C:\xampp\htdocs\BandoCat\TDLPublish\UpdateCron\updatecron.php on line 689
+PHP Notice:  Undefined variable: dpsaceID in C:\xampp\htdocs\BandoCat\TDLPublish\UpdateCron\updatecron.php on line 689
+PHP Notice:  Undefined variable: dpsaceID in C:\xampp\htdocs\BandoCat\TDLPublish\UpdateCron\updatecron.php on line 689
+PHP Notice:  Undefined variable: dpsaceID in C:\xampp\htdocs\BandoCat\TDLPublish\UpdateCron\updatecron.php on line 689
+PHP Notice:  Undefined variable: dpsaceID in C:\xampp\htdocs\BandoCat\TDLPublish\UpdateCron\updatecron.php on line 689
+PHP Notice:  Undefined variable: dpsaceID in C:\xampp\htdocs\BandoCat\TDLPublish\UpdateCron\updatecron.php on line 689
+PHP Notice:  Undefined variable: dpsaceID in C:\xampp\htdocs\BandoCat\TDLPublish\UpdateCron\updatecron.php on line 689
+PHP Notice:  Undefined variable: dpsaceID in C:\xampp\htdocs\BandoCat\TDLPublish\UpdateCron\updatecron.php on line 689
+PHP Notice:  Undefined variable: dpsaceID in C:\xampp\htdocs\BandoCat\TDLPublish\UpdateCron\updatecron.php on line 689
+PHP Notice:  Undefined variable: dpsaceID in C:\xampp\htdocs\BandoCat\TDLPublish\UpdateCron\updatecron.php on line 689
+PHP Notice:  Undefined variable: dpsaceID in C:\xampp\htdocs\BandoCat\TDLPublish\UpdateCron\updatecron.php on line 689
+PHP Notice:  Undefined variable: dpsaceID in C:\xampp\htdocs\BandoCat\TDLPublish\UpdateCron\updatecron.php on line 689
+PHP Notice:  Undefined variable: dpsaceID in C:\xampp\htdocs\BandoCat\TDLPublish\UpdateCron\updatecron.php on line 689
+PHP Notice:  Undefined variable: dpsaceID in C:\xampp\htdocs\BandoCat\TDLPublish\UpdateCron\updatecron.php on line 689
+PHP Notice:  Undefined variable: dpsaceID in C:\xampp\htdocs\BandoCat\TDLPublish\UpdateCron\updatecron.php on line 689
+PHP Notice:  Undefined variable: dpsaceID in C:\xampp\htdocs\BandoCat\TDLPublish\UpdateCron\updatecron.php on line 689
+PHP Notice:  Undefined variable: dpsaceID in C:\xampp\htdocs\BandoCat\TDLPublish\UpdateCron\updatecron.php on line 689
+PHP Notice:  Undefined variable: dpsaceID in C:\xampp\htdocs\BandoCat\TDLPublish\UpdateCron\updatecron.php on line 689
+PHP Notice:  Undefined variable: dpsaceID in C:\xampp\htdocs\BandoCat\TDLPublish\UpdateCron\updatecron.php on line 689
+PHP Notice:  Undefined variable: dpsaceID in C:\xampp\htdocs\BandoCat\TDLPublish\UpdateCron\updatecron.php on line 689
+PHP Notice:  Undefined variable: dpsaceID in C:\xampp\htdocs\BandoCat\TDLPublish\UpdateCron\updatecron.php on line 689
+PHP Notice:  Undefined variable: dpsaceID in C:\xampp\htdocs\BandoCat\TDLPublish\UpdateCron\updatecron.php on line 689

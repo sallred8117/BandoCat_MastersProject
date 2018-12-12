@@ -1,0 +1,2877 @@
+
+C:\xampp\htdocs\BandoCat\TDLPublish\UpdateCron>php C:\xampp\htdocs\BandoCat\TDLPublish\UpdateCron\updatecron.php 
+TDL Publishing job
+Last updated: 01/30/2018
+By Sam Allred
+bool(false)
+string(19) "HAS FRONT??? -----^"
+string(26) "PUBLIC BITSTREAM COUNT = 1"
+string(28) "INTERNAL BITSTREAM COUNT = 2"
+string(45) "THE PUBLIC IS LESS THAN OR = TOO THE INTERNAL"
+string(39) "NOTHINGS WRONG WITH JPG: 2BL-10back.jpg"
+array(2) {
+  [0]=>
+  object(InternalBitstream)#12 (4) {
+    ["name"]=>
+    string(10) "2BL-10.jpg"
+    ["type"]=>
+    string(8) "frontJPG"
+    ["md5_checksum"]=>
+    string(32) "2f8814f7318762d0f12b8339d5bcf4ed"
+    ["path"]=>
+    string(43) "M:/BlucherCollection/uploads/2BL/2BL-10.jpg"
+  }
+  [1]=>
+  object(InternalBitstream)#13 (4) {
+    ["name"]=>
+    string(14) "2BL-10back.jpg"
+    ["type"]=>
+    string(7) "backJPG"
+    ["md5_checksum"]=>
+    string(32) "3c7c2f07a9a46cd54b595dcfe58b0f7b"
+    ["path"]=>
+    string(47) "M:/BlucherCollection/uploads/2BL/2BL-10back.jpg"
+  }
+}
+
+Notice: Undefined variable: dpsaceID in C:\xampp\htdocs\BandoCat\TDLPublish\UpdateCron\updatecron.php on line 689
+Array
+(
+    [url] => https://tamucc-ir.tdl.org/rest/items//metadata
+    [content_type] => text/html;charset=utf-8
+    [http_code] => 404
+    [header_size] => 281
+    [request_size] => 235
+    [filetime] => -1
+    [ssl_verify_result] => 0
+    [redirect_count] => 0
+    [total_time] => 0.265
+    [namelookup_time] => 0.015
+    [connect_time] => 0.046
+    [pretransfer_time] => 0.171
+    [size_upload] => 1563
+    [size_download] => 1078
+    [speed_download] => 1078
+    [speed_upload] => 1563
+    [download_content_length] => 1078
+    [upload_content_length] => 1563
+    [starttransfer_time] => 0.218
+    [redirect_time] => 0
+    [redirect_url] => 
+    [primary_ip] => 54.172.26.191
+    [certinfo] => Array
+        (
+        )
+
+    [primary_port] => 443
+    [local_ip] => 10.20.2.148
+    [local_port] => 61488
+)
+bool(false)
+string(19) "HAS FRONT??? -----^"
+string(26) "PUBLIC BITSTREAM COUNT = 0"
+string(28) "INTERNAL BITSTREAM COUNT = 1"
+string(45) "THE PUBLIC IS LESS THAN OR = TOO THE INTERNAL"
+array(1) {
+  [0]=>
+  object(InternalBitstream)#12 (4) {
+    ["name"]=>
+    string(11) "2BM-24A.jpg"
+    ["type"]=>
+    string(8) "frontJPG"
+    ["md5_checksum"]=>
+    string(32) "31c67ed2509677b76d9ed7a9d1968d64"
+    ["path"]=>
+    string(44) "M:/BlucherCollection/uploads/2BM/2BM-24A.jpg"
+  }
+}
+
+Notice: Undefined variable: dpsaceID in C:\xampp\htdocs\BandoCat\TDLPublish\UpdateCron\updatecron.php on line 689
+Array
+(
+    [url] => https://tamucc-ir.tdl.org/rest/items//metadata
+    [content_type] => text/html;charset=utf-8
+    [http_code] => 404
+    [header_size] => 281
+    [request_size] => 235
+    [filetime] => -1
+    [ssl_verify_result] => 0
+    [redirect_count] => 0
+    [total_time] => 0.281
+    [namelookup_time] => 0.031
+    [connect_time] => 0.078
+    [pretransfer_time] => 0.203
+    [size_upload] => 1634
+    [size_download] => 1078
+    [speed_download] => 1078
+    [speed_upload] => 1634
+    [download_content_length] => 1078
+    [upload_content_length] => 1634
+    [starttransfer_time] => 0.234
+    [redirect_time] => 0
+    [redirect_url] => 
+    [primary_ip] => 54.172.26.191
+    [certinfo] => Array
+        (
+        )
+
+    [primary_port] => 443
+    [local_ip] => 10.20.2.148
+    [local_port] => 61493
+)
+bool(false)
+string(19) "HAS FRONT??? -----^"
+string(26) "PUBLIC BITSTREAM COUNT = 2"
+string(28) "INTERNAL BITSTREAM COUNT = 2"
+string(45) "THE PUBLIC IS LESS THAN OR = TOO THE INTERNAL"
+string(35) "NOTHINGS WRONG WITH JPG: 2BM-28.jpg"
+string(39) "NOTHINGS WRONG WITH JPG: 2BM-28back.jpg"
+array(2) {
+  [0]=>
+  object(InternalBitstream)#17 (4) {
+    ["name"]=>
+    string(10) "2BM-28.jpg"
+    ["type"]=>
+    string(8) "frontJPG"
+    ["md5_checksum"]=>
+    string(32) "51895e750024c8d8a307adaa168a6a32"
+    ["path"]=>
+    string(43) "M:/BlucherCollection/uploads/2BM/2BM-28.jpg"
+  }
+  [1]=>
+  object(InternalBitstream)#18 (4) {
+    ["name"]=>
+    string(14) "2BM-28back.jpg"
+    ["type"]=>
+    string(7) "backJPG"
+    ["md5_checksum"]=>
+    string(32) "6ba4bb6640bbf0973dcc777100ab4812"
+    ["path"]=>
+    string(47) "M:/BlucherCollection/uploads/2BM/2BM-28back.jpg"
+  }
+}
+
+Notice: Undefined variable: dpsaceID in C:\xampp\htdocs\BandoCat\TDLPublish\UpdateCron\updatecron.php on line 689
+Array
+(
+    [url] => https://tamucc-ir.tdl.org/rest/items//metadata
+    [content_type] => text/html;charset=utf-8
+    [http_code] => 404
+    [header_size] => 281
+    [request_size] => 235
+    [filetime] => -1
+    [ssl_verify_result] => 0
+    [redirect_count] => 0
+    [total_time] => 0.266
+    [namelookup_time] => 0.016
+    [connect_time] => 0.047
+    [pretransfer_time] => 0.187
+    [size_upload] => 1666
+    [size_download] => 1078
+    [speed_download] => 1078
+    [speed_upload] => 1666
+    [download_content_length] => 1078
+    [upload_content_length] => 1666
+    [starttransfer_time] => 0.234
+    [redirect_time] => 0
+    [redirect_url] => 
+    [primary_ip] => 54.172.26.191
+    [certinfo] => Array
+        (
+        )
+
+    [primary_port] => 443
+    [local_ip] => 10.20.2.148
+    [local_port] => 61496
+)
+bool(false)
+string(19) "HAS FRONT??? -----^"
+string(26) "PUBLIC BITSTREAM COUNT = 1"
+string(28) "INTERNAL BITSTREAM COUNT = 1"
+string(45) "THE PUBLIC IS LESS THAN OR = TOO THE INTERNAL"
+string(35) "NOTHINGS WRONG WITH JPG: 2BM-35.jpg"
+array(1) {
+  [0]=>
+  object(InternalBitstream)#17 (4) {
+    ["name"]=>
+    string(10) "2BM-35.jpg"
+    ["type"]=>
+    string(8) "frontJPG"
+    ["md5_checksum"]=>
+    string(32) "8c062b3cff981b7e2844738fdef14c9a"
+    ["path"]=>
+    string(43) "M:/BlucherCollection/uploads/2BM/2BM-35.jpg"
+  }
+}
+
+Notice: Undefined variable: dpsaceID in C:\xampp\htdocs\BandoCat\TDLPublish\UpdateCron\updatecron.php on line 689
+Array
+(
+    [url] => https://tamucc-ir.tdl.org/rest/items//metadata
+    [content_type] => text/html;charset=utf-8
+    [http_code] => 404
+    [header_size] => 281
+    [request_size] => 235
+    [filetime] => -1
+    [ssl_verify_result] => 0
+    [redirect_count] => 0
+    [total_time] => 0.282
+    [namelookup_time] => 0.016
+    [connect_time] => 0.063
+    [pretransfer_time] => 0.188
+    [size_upload] => 1618
+    [size_download] => 1078
+    [speed_download] => 1078
+    [speed_upload] => 1618
+    [download_content_length] => 1078
+    [upload_content_length] => 1618
+    [starttransfer_time] => 0.235
+    [redirect_time] => 0
+    [redirect_url] => 
+    [primary_ip] => 54.172.26.191
+    [certinfo] => Array
+        (
+        )
+
+    [primary_port] => 443
+    [local_ip] => 10.20.2.148
+    [local_port] => 61499
+)
+bool(false)
+string(19) "HAS FRONT??? -----^"
+string(26) "PUBLIC BITSTREAM COUNT = 1"
+string(28) "INTERNAL BITSTREAM COUNT = 1"
+string(45) "THE PUBLIC IS LESS THAN OR = TOO THE INTERNAL"
+string(36) "NOTHINGS WRONG WITH JPG: 2BM-35a.jpg"
+array(1) {
+  [0]=>
+  object(InternalBitstream)#10 (4) {
+    ["name"]=>
+    string(11) "2BM-35a.jpg"
+    ["type"]=>
+    string(8) "frontJPG"
+    ["md5_checksum"]=>
+    string(32) "48aa1ff1fd06768991c9962f42cd7ffb"
+    ["path"]=>
+    string(44) "M:/BlucherCollection/uploads/2BM/2BM-35a.jpg"
+  }
+}
+
+Notice: Undefined variable: dpsaceID in C:\xampp\htdocs\BandoCat\TDLPublish\UpdateCron\updatecron.php on line 689
+Array
+(
+    [url] => https://tamucc-ir.tdl.org/rest/items//metadata
+    [content_type] => text/html;charset=utf-8
+    [http_code] => 404
+    [header_size] => 281
+    [request_size] => 235
+    [filetime] => -1
+    [ssl_verify_result] => 0
+    [redirect_count] => 0
+    [total_time] => 0.281
+    [namelookup_time] => 0.015
+    [connect_time] => 0.062
+    [pretransfer_time] => 0.187
+    [size_upload] => 1567
+    [size_download] => 1078
+    [speed_download] => 1078
+    [speed_upload] => 1567
+    [download_content_length] => 1078
+    [upload_content_length] => 1567
+    [starttransfer_time] => 0.234
+    [redirect_time] => 0
+    [redirect_url] => 
+    [primary_ip] => 54.172.26.191
+    [certinfo] => Array
+        (
+        )
+
+    [primary_port] => 443
+    [local_ip] => 10.20.2.148
+    [local_port] => 61502
+)
+1bool(false)
+string(19) "HAS FRONT??? -----^"
+string(26) "PUBLIC BITSTREAM COUNT = 1"
+string(28) "INTERNAL BITSTREAM COUNT = 1"
+string(45) "THE PUBLIC IS LESS THAN OR = TOO THE INTERNAL"
+string(34) "NOTHINGS WRONG WITH JPG: 2MB-1.jpg"
+array(1) {
+  [0]=>
+  object(InternalBitstream)#8 (4) {
+    ["name"]=>
+    string(9) "2MB-1.jpg"
+    ["type"]=>
+    string(8) "frontJPG"
+    ["md5_checksum"]=>
+    string(32) "40f8a2f377d66f02be4a14ec1e447f0b"
+    ["path"]=>
+    string(42) "M:/BlucherCollection/uploads/2MB/2MB-1.jpg"
+  }
+}
+
+Notice: Undefined variable: dpsaceID in C:\xampp\htdocs\BandoCat\TDLPublish\UpdateCron\updatecron.php on line 689
+Array
+(
+    [url] => https://tamucc-ir.tdl.org/rest/items//metadata
+    [content_type] => text/html;charset=utf-8
+    [http_code] => 404
+    [header_size] => 281
+    [request_size] => 235
+    [filetime] => -1
+    [ssl_verify_result] => 0
+    [redirect_count] => 0
+    [total_time] => 0.265
+    [namelookup_time] => 0.015
+    [connect_time] => 0.062
+    [pretransfer_time] => 0.187
+    [size_upload] => 1589
+    [size_download] => 1078
+    [speed_download] => 1078
+    [speed_upload] => 1589
+    [download_content_length] => 1078
+    [upload_content_length] => 1589
+    [starttransfer_time] => 0.234
+    [redirect_time] => 0
+    [redirect_url] => 
+    [primary_ip] => 54.172.26.191
+    [certinfo] => Array
+        (
+        )
+
+    [primary_port] => 443
+    [local_ip] => 10.20.2.148
+    [local_port] => 61508
+)
+bool(true)
+string(19) "HAS FRONT??? -----^"
+string(26) "PUBLIC BITSTREAM COUNT = 3"
+string(28) "INTERNAL BITSTREAM COUNT = 3"
+string(45) "THE PUBLIC IS LESS THAN OR = TOO THE INTERNAL"
+string(35) "NOTHINGS WRONG WITH JPG: 2BL-50.jpg"
+string(46) "NOTHINGS WRONG WITH TIFF: 2BL-50_rectified.tif"
+string(35) "NOTHINGS WRONG WITH KMZ: 2BL-50.kmz"
+array(3) {
+  [0]=>
+  object(InternalBitstream)#7 (4) {
+    ["name"]=>
+    string(10) "2BL-50.jpg"
+    ["type"]=>
+    string(8) "frontJPG"
+    ["md5_checksum"]=>
+    string(32) "5fabad338224a713053a97ef1f1576ee"
+    ["path"]=>
+    string(43) "M:/BlucherCollection/uploads/2BL/2BL-50.jpg"
+  }
+  [1]=>
+  object(InternalBitstream)#17 (4) {
+    ["name"]=>
+    string(20) "2BL-50_rectified.tif"
+    ["type"]=>
+    string(12) "frontGeoTIFF"
+    ["md5_checksum"]=>
+    string(32) "6b0b3a52669d66d67dbb74848c87d3cc"
+    ["path"]=>
+    string(52) "M:/BlucherCollection/georec/2BL/2BL-50_rectified.tif"
+  }
+  [2]=>
+  object(InternalBitstream)#21 (4) {
+    ["name"]=>
+    string(10) "2BL-50.kmz"
+    ["type"]=>
+    string(8) "frontKMZ"
+    ["md5_checksum"]=>
+    string(32) "ef60dc2a0af5d5eafcde1afab26f2741"
+    ["path"]=>
+    string(42) "M:/BlucherCollection/georec/2BL/2BL-50.kmz"
+  }
+}
+
+Notice: Undefined variable: dpsaceID in C:\xampp\htdocs\BandoCat\TDLPublish\UpdateCron\updatecron.php on line 689
+Array
+(
+    [url] => https://tamucc-ir.tdl.org/rest/items//metadata
+    [content_type] => text/html;charset=utf-8
+    [http_code] => 404
+    [header_size] => 281
+    [request_size] => 235
+    [filetime] => -1
+    [ssl_verify_result] => 0
+    [redirect_count] => 0
+    [total_time] => 0.265
+    [namelookup_time] => 0.015
+    [connect_time] => 0.062
+    [pretransfer_time] => 0.187
+    [size_upload] => 1558
+    [size_download] => 1078
+    [speed_download] => 1078
+    [speed_upload] => 1558
+    [download_content_length] => 1078
+    [upload_content_length] => 1558
+    [starttransfer_time] => 0.218
+    [redirect_time] => 0
+    [redirect_url] => 
+    [primary_ip] => 54.172.26.191
+    [certinfo] => Array
+        (
+        )
+
+    [primary_port] => 443
+    [local_ip] => 10.20.2.148
+    [local_port] => 61511
+)
+bool(false)
+string(19) "HAS FRONT??? -----^"
+string(26) "PUBLIC BITSTREAM COUNT = 1"
+string(28) "INTERNAL BITSTREAM COUNT = 1"
+string(45) "THE PUBLIC IS LESS THAN OR = TOO THE INTERNAL"
+string(35) "NOTHINGS WRONG WITH JPG: 2BL-51.jpg"
+array(1) {
+  [0]=>
+  object(InternalBitstream)#17 (4) {
+    ["name"]=>
+    string(10) "2BL-51.jpg"
+    ["type"]=>
+    string(8) "frontJPG"
+    ["md5_checksum"]=>
+    string(32) "15e87dc07913e38c40d9f28406f83d8b"
+    ["path"]=>
+    string(43) "M:/BlucherCollection/uploads/2BL/2BL-51.jpg"
+  }
+}
+
+Notice: Undefined variable: dpsaceID in C:\xampp\htdocs\BandoCat\TDLPublish\UpdateCron\updatecron.php on line 689
+Array
+(
+    [url] => https://tamucc-ir.tdl.org/rest/items//metadata
+    [content_type] => text/html;charset=utf-8
+    [http_code] => 404
+    [header_size] => 281
+    [request_size] => 235
+    [filetime] => -1
+    [ssl_verify_result] => 0
+    [redirect_count] => 0
+    [total_time] => 0.265
+    [namelookup_time] => 0.015
+    [connect_time] => 0.062
+    [pretransfer_time] => 0.187
+    [size_upload] => 1594
+    [size_download] => 1078
+    [speed_download] => 1078
+    [speed_upload] => 1594
+    [download_content_length] => 1078
+    [upload_content_length] => 1594
+    [starttransfer_time] => 0.219
+    [redirect_time] => 0
+    [redirect_url] => 
+    [primary_ip] => 54.172.26.191
+    [certinfo] => Array
+        (
+        )
+
+    [primary_port] => 443
+    [local_ip] => 10.20.2.148
+    [local_port] => 61514
+)
+bool(false)
+string(19) "HAS FRONT??? -----^"
+string(26) "PUBLIC BITSTREAM COUNT = 1"
+string(28) "INTERNAL BITSTREAM COUNT = 1"
+string(45) "THE PUBLIC IS LESS THAN OR = TOO THE INTERNAL"
+string(35) "NOTHINGS WRONG WITH JPG: 2BL-52.jpg"
+array(1) {
+  [0]=>
+  object(InternalBitstream)#16 (4) {
+    ["name"]=>
+    string(10) "2BL-52.jpg"
+    ["type"]=>
+    string(8) "frontJPG"
+    ["md5_checksum"]=>
+    string(32) "b573ad95f66daa317b9b55c1a3686983"
+    ["path"]=>
+    string(43) "M:/BlucherCollection/uploads/2BL/2BL-52.jpg"
+  }
+}
+
+Notice: Undefined variable: dpsaceID in C:\xampp\htdocs\BandoCat\TDLPublish\UpdateCron\updatecron.php on line 689
+Array
+(
+    [url] => https://tamucc-ir.tdl.org/rest/items//metadata
+    [content_type] => text/html;charset=utf-8
+    [http_code] => 404
+    [header_size] => 281
+    [request_size] => 235
+    [filetime] => -1
+    [ssl_verify_result] => 0
+    [redirect_count] => 0
+    [total_time] => 0.265
+    [namelookup_time] => 0.015
+    [connect_time] => 0.062
+    [pretransfer_time] => 0.187
+    [size_upload] => 1654
+    [size_download] => 1078
+    [speed_download] => 1078
+    [speed_upload] => 1654
+    [download_content_length] => 1078
+    [upload_content_length] => 1654
+    [starttransfer_time] => 0.234
+    [redirect_time] => 0
+    [redirect_url] => 
+    [primary_ip] => 54.172.26.191
+    [certinfo] => Array
+        (
+        )
+
+    [primary_port] => 443
+    [local_ip] => 10.20.2.148
+    [local_port] => 61517
+)
+bool(true)
+string(19) "HAS FRONT??? -----^"
+string(26) "PUBLIC BITSTREAM COUNT = 4"
+string(28) "INTERNAL BITSTREAM COUNT = 4"
+string(45) "THE PUBLIC IS LESS THAN OR = TOO THE INTERNAL"
+string(35) "NOTHINGS WRONG WITH JPG: 2BL-53.jpg"
+string(39) "NOTHINGS WRONG WITH JPG: 2BL-53back.jpg"
+string(46) "NOTHINGS WRONG WITH TIFF: 2BL-53_rectified.tif"
+string(35) "NOTHINGS WRONG WITH KMZ: 2BL-53.kmz"
+array(4) {
+  [0]=>
+  object(InternalBitstream)#14 (4) {
+    ["name"]=>
+    string(10) "2BL-53.jpg"
+    ["type"]=>
+    string(8) "frontJPG"
+    ["md5_checksum"]=>
+    string(32) "53b0555365fdcf2617553bcb22388059"
+    ["path"]=>
+    string(43) "M:/BlucherCollection/uploads/2BL/2BL-53.jpg"
+  }
+  [1]=>
+  object(InternalBitstream)#8 (4) {
+    ["name"]=>
+    string(14) "2BL-53back.jpg"
+    ["type"]=>
+    string(7) "backJPG"
+    ["md5_checksum"]=>
+    string(32) "a05a0484973f25241be22a73498a188e"
+    ["path"]=>
+    string(47) "M:/BlucherCollection/uploads/2BL/2BL-53back.jpg"
+  }
+  [2]=>
+  object(InternalBitstream)#25 (4) {
+    ["name"]=>
+    string(20) "2BL-53_rectified.tif"
+    ["type"]=>
+    string(12) "frontGeoTIFF"
+    ["md5_checksum"]=>
+    string(32) "b2014be8def7294d56400ad1ad380d11"
+    ["path"]=>
+    string(52) "M:/BlucherCollection/georec/2BL/2BL-53_rectified.tif"
+  }
+  [3]=>
+  object(InternalBitstream)#26 (4) {
+    ["name"]=>
+    string(10) "2BL-53.kmz"
+    ["type"]=>
+    string(8) "frontKMZ"
+    ["md5_checksum"]=>
+    string(32) "04006dac2c07d0f516ee9c0b24cab27d"
+    ["path"]=>
+    string(42) "M:/BlucherCollection/georec/2BL/2BL-53.kmz"
+  }
+}
+
+Notice: Undefined variable: dpsaceID in C:\xampp\htdocs\BandoCat\TDLPublish\UpdateCron\updatecron.php on line 689
+Array
+(
+    [url] => https://tamucc-ir.tdl.org/rest/items//metadata
+    [content_type] => text/html;charset=utf-8
+    [http_code] => 404
+    [header_size] => 281
+    [request_size] => 235
+    [filetime] => -1
+    [ssl_verify_result] => 0
+    [redirect_count] => 0
+    [total_time] => 0.266
+    [namelookup_time] => 0.016
+    [connect_time] => 0.047
+    [pretransfer_time] => 0.172
+    [size_upload] => 1609
+    [size_download] => 1078
+    [speed_download] => 1078
+    [speed_upload] => 1609
+    [download_content_length] => 1078
+    [upload_content_length] => 1609
+    [starttransfer_time] => 0.219
+    [redirect_time] => 0
+    [redirect_url] => 
+    [primary_ip] => 54.172.26.191
+    [certinfo] => Array
+        (
+        )
+
+    [primary_port] => 443
+    [local_ip] => 10.20.2.148
+    [local_port] => 61520
+)
+bool(false)
+string(19) "HAS FRONT??? -----^"
+string(26) "PUBLIC BITSTREAM COUNT = 1"
+string(28) "INTERNAL BITSTREAM COUNT = 1"
+string(45) "THE PUBLIC IS LESS THAN OR = TOO THE INTERNAL"
+string(35) "NOTHINGS WRONG WITH JPG: 2BL-54.jpg"
+array(1) {
+  [0]=>
+  object(InternalBitstream)#25 (4) {
+    ["name"]=>
+    string(10) "2BL-54.jpg"
+    ["type"]=>
+    string(8) "frontJPG"
+    ["md5_checksum"]=>
+    string(32) "b073d52432565e820fe2513bf90041c7"
+    ["path"]=>
+    string(43) "M:/BlucherCollection/uploads/2BL/2BL-54.jpg"
+  }
+}
+
+Notice: Undefined variable: dpsaceID in C:\xampp\htdocs\BandoCat\TDLPublish\UpdateCron\updatecron.php on line 689
+Array
+(
+    [url] => https://tamucc-ir.tdl.org/rest/items//metadata
+    [content_type] => text/html;charset=utf-8
+    [http_code] => 404
+    [header_size] => 281
+    [request_size] => 235
+    [filetime] => -1
+    [ssl_verify_result] => 0
+    [redirect_count] => 0
+    [total_time] => 0.265
+    [namelookup_time] => 0.015
+    [connect_time] => 0.062
+    [pretransfer_time] => 0.171
+    [size_upload] => 1592
+    [size_download] => 1078
+    [speed_download] => 1078
+    [speed_upload] => 1592
+    [download_content_length] => 1078
+    [upload_content_length] => 1592
+    [starttransfer_time] => 0.218
+    [redirect_time] => 0
+    [redirect_url] => 
+    [primary_ip] => 54.172.26.191
+    [certinfo] => Array
+        (
+        )
+
+    [primary_port] => 443
+    [local_ip] => 10.20.2.148
+    [local_port] => 61523
+)
+bool(false)
+string(19) "HAS FRONT??? -----^"
+string(26) "PUBLIC BITSTREAM COUNT = 1"
+string(28) "INTERNAL BITSTREAM COUNT = 1"
+string(45) "THE PUBLIC IS LESS THAN OR = TOO THE INTERNAL"
+string(35) "NOTHINGS WRONG WITH JPG: 2BL-56.jpg"
+array(1) {
+  [0]=>
+  object(InternalBitstream)#20 (4) {
+    ["name"]=>
+    string(10) "2BL-56.jpg"
+    ["type"]=>
+    string(8) "frontJPG"
+    ["md5_checksum"]=>
+    string(32) "3cd051b9ec344206369bc9d097f8f229"
+    ["path"]=>
+    string(43) "M:/BlucherCollection/uploads/2BL/2BL-56.jpg"
+  }
+}
+
+Notice: Undefined variable: dpsaceID in C:\xampp\htdocs\BandoCat\TDLPublish\UpdateCron\updatecron.php on line 689
+Array
+(
+    [url] => https://tamucc-ir.tdl.org/rest/items//metadata
+    [content_type] => text/html;charset=utf-8
+    [http_code] => 404
+    [header_size] => 281
+    [request_size] => 235
+    [filetime] => -1
+    [ssl_verify_result] => 0
+    [redirect_count] => 0
+    [total_time] => 0.266
+    [namelookup_time] => 0.016
+    [connect_time] => 0.063
+    [pretransfer_time] => 0.188
+    [size_upload] => 1749
+    [size_download] => 1078
+    [speed_download] => 1078
+    [speed_upload] => 1749
+    [download_content_length] => 1078
+    [upload_content_length] => 1749
+    [starttransfer_time] => 0.219
+    [redirect_time] => 0
+    [redirect_url] => 
+    [primary_ip] => 54.172.26.191
+    [certinfo] => Array
+        (
+        )
+
+    [primary_port] => 443
+    [local_ip] => 10.20.2.148
+    [local_port] => 61526
+)
+bool(false)
+string(19) "HAS FRONT??? -----^"
+string(26) "PUBLIC BITSTREAM COUNT = 1"
+string(28) "INTERNAL BITSTREAM COUNT = 1"
+string(45) "THE PUBLIC IS LESS THAN OR = TOO THE INTERNAL"
+string(35) "NOTHINGS WRONG WITH JPG: 2BL-57.jpg"
+array(1) {
+  [0]=>
+  object(InternalBitstream)#18 (4) {
+    ["name"]=>
+    string(10) "2BL-57.jpg"
+    ["type"]=>
+    string(8) "frontJPG"
+    ["md5_checksum"]=>
+    string(32) "fc79fd3c3a470721b0fbefcbb15f553f"
+    ["path"]=>
+    string(43) "M:/BlucherCollection/uploads/2BL/2BL-57.jpg"
+  }
+}
+
+Notice: Undefined variable: dpsaceID in C:\xampp\htdocs\BandoCat\TDLPublish\UpdateCron\updatecron.php on line 689
+Array
+(
+    [url] => https://tamucc-ir.tdl.org/rest/items//metadata
+    [content_type] => text/html;charset=utf-8
+    [http_code] => 404
+    [header_size] => 281
+    [request_size] => 235
+    [filetime] => -1
+    [ssl_verify_result] => 0
+    [redirect_count] => 0
+    [total_time] => 0.266
+    [namelookup_time] => 0.016
+    [connect_time] => 0.047
+    [pretransfer_time] => 0.172
+    [size_upload] => 1565
+    [size_download] => 1078
+    [speed_download] => 1078
+    [speed_upload] => 1565
+    [download_content_length] => 1078
+    [upload_content_length] => 1565
+    [starttransfer_time] => 0.219
+    [redirect_time] => 0
+    [redirect_url] => 
+    [primary_ip] => 54.172.26.191
+    [certinfo] => Array
+        (
+        )
+
+    [primary_port] => 443
+    [local_ip] => 10.20.2.148
+    [local_port] => 61529
+)
+bool(false)
+string(19) "HAS FRONT??? -----^"
+string(26) "PUBLIC BITSTREAM COUNT = 1"
+string(28) "INTERNAL BITSTREAM COUNT = 1"
+string(45) "THE PUBLIC IS LESS THAN OR = TOO THE INTERNAL"
+string(35) "NOTHINGS WRONG WITH JPG: 2BL-58.jpg"
+array(1) {
+  [0]=>
+  object(InternalBitstream)#23 (4) {
+    ["name"]=>
+    string(10) "2BL-58.jpg"
+    ["type"]=>
+    string(8) "frontJPG"
+    ["md5_checksum"]=>
+    string(32) "5015dcbe244f056c82505cdbff58efa0"
+    ["path"]=>
+    string(43) "M:/BlucherCollection/uploads/2BL/2BL-58.jpg"
+  }
+}
+
+Notice: Undefined variable: dpsaceID in C:\xampp\htdocs\BandoCat\TDLPublish\UpdateCron\updatecron.php on line 689
+Array
+(
+    [url] => https://tamucc-ir.tdl.org/rest/items//metadata
+    [content_type] => text/html;charset=utf-8
+    [http_code] => 404
+    [header_size] => 281
+    [request_size] => 235
+    [filetime] => -1
+    [ssl_verify_result] => 0
+    [redirect_count] => 0
+    [total_time] => 0.282
+    [namelookup_time] => 0.032
+    [connect_time] => 0.079
+    [pretransfer_time] => 0.204
+    [size_upload] => 1520
+    [size_download] => 1078
+    [speed_download] => 1078
+    [speed_upload] => 1520
+    [download_content_length] => 1078
+    [upload_content_length] => 1520
+    [starttransfer_time] => 0.235
+    [redirect_time] => 0
+    [redirect_url] => 
+    [primary_ip] => 54.172.26.191
+    [certinfo] => Array
+        (
+        )
+
+    [primary_port] => 443
+    [local_ip] => 10.20.2.148
+    [local_port] => 61532
+)
+bool(false)
+string(19) "HAS FRONT??? -----^"
+string(26) "PUBLIC BITSTREAM COUNT = 1"
+string(28) "INTERNAL BITSTREAM COUNT = 1"
+string(45) "THE PUBLIC IS LESS THAN OR = TOO THE INTERNAL"
+string(35) "NOTHINGS WRONG WITH JPG: 2BL-59.jpg"
+array(1) {
+  [0]=>
+  object(InternalBitstream)#7 (4) {
+    ["name"]=>
+    string(10) "2BL-59.jpg"
+    ["type"]=>
+    string(8) "frontJPG"
+    ["md5_checksum"]=>
+    string(32) "e346e498ae59a1c75da1eb5b063fc9fc"
+    ["path"]=>
+    string(43) "M:/BlucherCollection/uploads/2BL/2BL-59.jpg"
+  }
+}
+
+Notice: Undefined variable: dpsaceID in C:\xampp\htdocs\BandoCat\TDLPublish\UpdateCron\updatecron.php on line 689
+Array
+(
+    [url] => https://tamucc-ir.tdl.org/rest/items//metadata
+    [content_type] => text/html;charset=utf-8
+    [http_code] => 404
+    [header_size] => 281
+    [request_size] => 235
+    [filetime] => -1
+    [ssl_verify_result] => 0
+    [redirect_count] => 0
+    [total_time] => 0.266
+    [namelookup_time] => 0.016
+    [connect_time] => 0.063
+    [pretransfer_time] => 0.188
+    [size_upload] => 1693
+    [size_download] => 1078
+    [speed_download] => 1078
+    [speed_upload] => 1693
+    [download_content_length] => 1078
+    [upload_content_length] => 1693
+    [starttransfer_time] => 0.219
+    [redirect_time] => 0
+    [redirect_url] => 
+    [primary_ip] => 54.172.26.191
+    [certinfo] => Array
+        (
+        )
+
+    [primary_port] => 443
+    [local_ip] => 10.20.2.148
+    [local_port] => 61535
+)
+bool(false)
+string(19) "HAS FRONT??? -----^"
+string(26) "PUBLIC BITSTREAM COUNT = 1"
+string(28) "INTERNAL BITSTREAM COUNT = 1"
+string(45) "THE PUBLIC IS LESS THAN OR = TOO THE INTERNAL"
+string(35) "NOTHINGS WRONG WITH JPG: 2BL-60.jpg"
+array(1) {
+  [0]=>
+  object(InternalBitstream)#24 (4) {
+    ["name"]=>
+    string(10) "2BL-60.jpg"
+    ["type"]=>
+    string(8) "frontJPG"
+    ["md5_checksum"]=>
+    string(32) "499538166aad9f4ec62829d71dcadb49"
+    ["path"]=>
+    string(43) "M:/BlucherCollection/uploads/2BL/2BL-60.jpg"
+  }
+}
+
+Notice: Undefined variable: dpsaceID in C:\xampp\htdocs\BandoCat\TDLPublish\UpdateCron\updatecron.php on line 689
+Array
+(
+    [url] => https://tamucc-ir.tdl.org/rest/items//metadata
+    [content_type] => text/html;charset=utf-8
+    [http_code] => 404
+    [header_size] => 281
+    [request_size] => 235
+    [filetime] => -1
+    [ssl_verify_result] => 0
+    [redirect_count] => 0
+    [total_time] => 0.265
+    [namelookup_time] => 0.015
+    [connect_time] => 0.062
+    [pretransfer_time] => 0.187
+    [size_upload] => 1692
+    [size_download] => 1078
+    [speed_download] => 1078
+    [speed_upload] => 1692
+    [download_content_length] => 1078
+    [upload_content_length] => 1692
+    [starttransfer_time] => 0.218
+    [redirect_time] => 0
+    [redirect_url] => 
+    [primary_ip] => 54.172.26.191
+    [certinfo] => Array
+        (
+        )
+
+    [primary_port] => 443
+    [local_ip] => 10.20.2.148
+    [local_port] => 61538
+)
+bool(false)
+string(19) "HAS FRONT??? -----^"
+string(26) "PUBLIC BITSTREAM COUNT = 1"
+string(28) "INTERNAL BITSTREAM COUNT = 1"
+string(45) "THE PUBLIC IS LESS THAN OR = TOO THE INTERNAL"
+string(35) "NOTHINGS WRONG WITH JPG: 2BL-61.jpg"
+array(1) {
+  [0]=>
+  object(InternalBitstream)#27 (4) {
+    ["name"]=>
+    string(10) "2BL-61.jpg"
+    ["type"]=>
+    string(8) "frontJPG"
+    ["md5_checksum"]=>
+    string(32) "193301ce693018b8c06ce09e321096b4"
+    ["path"]=>
+    string(43) "M:/BlucherCollection/uploads/2BL/2BL-61.jpg"
+  }
+}
+
+Notice: Undefined variable: dpsaceID in C:\xampp\htdocs\BandoCat\TDLPublish\UpdateCron\updatecron.php on line 689
+Array
+(
+    [url] => https://tamucc-ir.tdl.org/rest/items//metadata
+    [content_type] => text/html;charset=utf-8
+    [http_code] => 404
+    [header_size] => 281
+    [request_size] => 235
+    [filetime] => -1
+    [ssl_verify_result] => 0
+    [redirect_count] => 0
+    [total_time] => 0.281
+    [namelookup_time] => 0.016
+    [connect_time] => 0.078
+    [pretransfer_time] => 0.203
+    [size_upload] => 1575
+    [size_download] => 1078
+    [speed_download] => 1078
+    [speed_upload] => 1575
+    [download_content_length] => 1078
+    [upload_content_length] => 1575
+    [starttransfer_time] => 0.25
+    [redirect_time] => 0
+    [redirect_url] => 
+    [primary_ip] => 54.172.26.191
+    [certinfo] => Array
+        (
+        )
+
+    [primary_port] => 443
+    [local_ip] => 10.20.2.148
+    [local_port] => 61541
+)
+bool(false)
+string(19) "HAS FRONT??? -----^"
+string(26) "PUBLIC BITSTREAM COUNT = 1"
+string(28) "INTERNAL BITSTREAM COUNT = 1"
+string(45) "THE PUBLIC IS LESS THAN OR = TOO THE INTERNAL"
+string(35) "NOTHINGS WRONG WITH JPG: 2BL-62.jpg"
+array(1) {
+  [0]=>
+  object(InternalBitstream)#8 (4) {
+    ["name"]=>
+    string(10) "2BL-62.jpg"
+    ["type"]=>
+    string(8) "frontJPG"
+    ["md5_checksum"]=>
+    string(32) "d8417597745e78b481db7baad83cf2ed"
+    ["path"]=>
+    string(43) "M:/BlucherCollection/uploads/2BL/2BL-62.jpg"
+  }
+}
+
+Notice: Undefined variable: dpsaceID in C:\xampp\htdocs\BandoCat\TDLPublish\UpdateCron\updatecron.php on line 689
+Array
+(
+    [url] => https://tamucc-ir.tdl.org/rest/items//metadata
+    [content_type] => text/html;charset=utf-8
+    [http_code] => 404
+    [header_size] => 281
+    [request_size] => 235
+    [filetime] => -1
+    [ssl_verify_result] => 0
+    [redirect_count] => 0
+    [total_time] => 0.266
+    [namelookup_time] => 0.016
+    [connect_time] => 0.047
+    [pretransfer_time] => 0.172
+    [size_upload] => 1588
+    [size_download] => 1078
+    [speed_download] => 1078
+    [speed_upload] => 1588
+    [download_content_length] => 1078
+    [upload_content_length] => 1588
+    [starttransfer_time] => 0.219
+    [redirect_time] => 0
+    [redirect_url] => 
+    [primary_ip] => 54.172.26.191
+    [certinfo] => Array
+        (
+        )
+
+    [primary_port] => 443
+    [local_ip] => 10.20.2.148
+    [local_port] => 61544
+)
+bool(true)
+string(19) "HAS FRONT??? -----^"
+string(26) "PUBLIC BITSTREAM COUNT = 3"
+string(28) "INTERNAL BITSTREAM COUNT = 3"
+string(45) "THE PUBLIC IS LESS THAN OR = TOO THE INTERNAL"
+string(35) "NOTHINGS WRONG WITH JPG: 2BL-63.jpg"
+string(46) "NOTHINGS WRONG WITH TIFF: 2BL-63_rectified.tif"
+string(35) "NOTHINGS WRONG WITH KMZ: 2BL-63.kmz"
+array(3) {
+  [0]=>
+  object(InternalBitstream)#17 (4) {
+    ["name"]=>
+    string(10) "2BL-63.jpg"
+    ["type"]=>
+    string(8) "frontJPG"
+    ["md5_checksum"]=>
+    string(32) "21b8b98721af96bce9cda0b12d89bb51"
+    ["path"]=>
+    string(43) "M:/BlucherCollection/uploads/2BL/2BL-63.jpg"
+  }
+  [1]=>
+  object(InternalBitstream)#7 (4) {
+    ["name"]=>
+    string(20) "2BL-63_rectified.tif"
+    ["type"]=>
+    string(12) "frontGeoTIFF"
+    ["md5_checksum"]=>
+    string(32) "aa2b6b75f3fe6360b45e953034e11d0d"
+    ["path"]=>
+    string(52) "M:/BlucherCollection/georec/2BL/2BL-63_rectified.tif"
+  }
+  [2]=>
+  object(InternalBitstream)#11 (4) {
+    ["name"]=>
+    string(10) "2BL-63.kmz"
+    ["type"]=>
+    string(8) "frontKMZ"
+    ["md5_checksum"]=>
+    string(32) "1782e251603b70ba76e7b85cffebbb3f"
+    ["path"]=>
+    string(42) "M:/BlucherCollection/georec/2BL/2BL-63.kmz"
+  }
+}
+
+Notice: Undefined variable: dpsaceID in C:\xampp\htdocs\BandoCat\TDLPublish\UpdateCron\updatecron.php on line 689
+Array
+(
+    [url] => https://tamucc-ir.tdl.org/rest/items//metadata
+    [content_type] => text/html;charset=utf-8
+    [http_code] => 404
+    [header_size] => 281
+    [request_size] => 235
+    [filetime] => -1
+    [ssl_verify_result] => 0
+    [redirect_count] => 0
+    [total_time] => 0.266
+    [namelookup_time] => 0.016
+    [connect_time] => 0.063
+    [pretransfer_time] => 0.188
+    [size_upload] => 1575
+    [size_download] => 1078
+    [speed_download] => 1078
+    [speed_upload] => 1575
+    [download_content_length] => 1078
+    [upload_content_length] => 1575
+    [starttransfer_time] => 0.219
+    [redirect_time] => 0
+    [redirect_url] => 
+    [primary_ip] => 54.172.26.191
+    [certinfo] => Array
+        (
+        )
+
+    [primary_port] => 443
+    [local_ip] => 10.20.2.148
+    [local_port] => 61547
+)
+bool(true)
+string(19) "HAS FRONT??? -----^"
+string(26) "PUBLIC BITSTREAM COUNT = 3"
+string(28) "INTERNAL BITSTREAM COUNT = 3"
+string(45) "THE PUBLIC IS LESS THAN OR = TOO THE INTERNAL"
+string(35) "NOTHINGS WRONG WITH JPG: 2BL-64.jpg"
+string(46) "NOTHINGS WRONG WITH TIFF: 2BL-64_rectified.tif"
+string(35) "NOTHINGS WRONG WITH KMZ: 2BL-64.kmz"
+array(3) {
+  [0]=>
+  object(InternalBitstream)#7 (4) {
+    ["name"]=>
+    string(10) "2BL-64.jpg"
+    ["type"]=>
+    string(8) "frontJPG"
+    ["md5_checksum"]=>
+    string(32) "59b62918603c250cf38c2ff59645fafc"
+    ["path"]=>
+    string(43) "M:/BlucherCollection/uploads/2BL/2BL-64.jpg"
+  }
+  [1]=>
+  object(InternalBitstream)#17 (4) {
+    ["name"]=>
+    string(20) "2BL-64_rectified.tif"
+    ["type"]=>
+    string(12) "frontGeoTIFF"
+    ["md5_checksum"]=>
+    string(32) "d0544a816dfc817bce9d7a101b78036e"
+    ["path"]=>
+    string(52) "M:/BlucherCollection/georec/2BL/2BL-64_rectified.tif"
+  }
+  [2]=>
+  object(InternalBitstream)#6 (4) {
+    ["name"]=>
+    string(10) "2BL-64.kmz"
+    ["type"]=>
+    string(8) "frontKMZ"
+    ["md5_checksum"]=>
+    string(32) "12060e514c491fc9f3b80cf3773ef699"
+    ["path"]=>
+    string(42) "M:/BlucherCollection/georec/2BL/2BL-64.kmz"
+  }
+}
+
+Notice: Undefined variable: dpsaceID in C:\xampp\htdocs\BandoCat\TDLPublish\UpdateCron\updatecron.php on line 689
+Array
+(
+    [url] => https://tamucc-ir.tdl.org/rest/items//metadata
+    [content_type] => text/html;charset=utf-8
+    [http_code] => 404
+    [header_size] => 281
+    [request_size] => 235
+    [filetime] => -1
+    [ssl_verify_result] => 0
+    [redirect_count] => 0
+    [total_time] => 0.265
+    [namelookup_time] => 0.015
+    [connect_time] => 0.062
+    [pretransfer_time] => 0.171
+    [size_upload] => 1642
+    [size_download] => 1078
+    [speed_download] => 1078
+    [speed_upload] => 1642
+    [download_content_length] => 1078
+    [upload_content_length] => 1642
+    [starttransfer_time] => 0.218
+    [redirect_time] => 0
+    [redirect_url] => 
+    [primary_ip] => 54.172.26.191
+    [certinfo] => Array
+        (
+        )
+
+    [primary_port] => 443
+    [local_ip] => 10.20.2.148
+    [local_port] => 61550
+)
+bool(false)
+string(19) "HAS FRONT??? -----^"
+string(26) "PUBLIC BITSTREAM COUNT = 1"
+string(28) "INTERNAL BITSTREAM COUNT = 1"
+string(45) "THE PUBLIC IS LESS THAN OR = TOO THE INTERNAL"
+string(35) "NOTHINGS WRONG WITH JPG: 2BL-65.jpg"
+array(1) {
+  [0]=>
+  object(InternalBitstream)#17 (4) {
+    ["name"]=>
+    string(10) "2BL-65.jpg"
+    ["type"]=>
+    string(8) "frontJPG"
+    ["md5_checksum"]=>
+    string(32) "346114cc9be49cf68c958b837be40b36"
+    ["path"]=>
+    string(43) "M:/BlucherCollection/uploads/2BL/2BL-65.jpg"
+  }
+}
+
+Notice: Undefined variable: dpsaceID in C:\xampp\htdocs\BandoCat\TDLPublish\UpdateCron\updatecron.php on line 689
+Array
+(
+    [url] => https://tamucc-ir.tdl.org/rest/items//metadata
+    [content_type] => text/html;charset=utf-8
+    [http_code] => 404
+    [header_size] => 281
+    [request_size] => 235
+    [filetime] => -1
+    [ssl_verify_result] => 0
+    [redirect_count] => 0
+    [total_time] => 0.266
+    [namelookup_time] => 0.016
+    [connect_time] => 0.047
+    [pretransfer_time] => 0.172
+    [size_upload] => 1444
+    [size_download] => 1078
+    [speed_download] => 1078
+    [speed_upload] => 1444
+    [download_content_length] => 1078
+    [upload_content_length] => 1444
+    [starttransfer_time] => 0.219
+    [redirect_time] => 0
+    [redirect_url] => 
+    [primary_ip] => 54.172.26.191
+    [certinfo] => Array
+        (
+        )
+
+    [primary_port] => 443
+    [local_ip] => 10.20.2.148
+    [local_port] => 61553
+)
+bool(false)
+string(19) "HAS FRONT??? -----^"
+string(26) "PUBLIC BITSTREAM COUNT = 1"
+string(28) "INTERNAL BITSTREAM COUNT = 1"
+string(45) "THE PUBLIC IS LESS THAN OR = TOO THE INTERNAL"
+string(36) "NOTHINGS WRONG WITH JPG: 2BL-65A.jpg"
+array(1) {
+  [0]=>
+  object(InternalBitstream)#25 (4) {
+    ["name"]=>
+    string(11) "2BL-65A.jpg"
+    ["type"]=>
+    string(8) "frontJPG"
+    ["md5_checksum"]=>
+    string(32) "ba2843b5768a6320ecdd90a617aed484"
+    ["path"]=>
+    string(44) "M:/BlucherCollection/uploads/2BL/2BL-65A.jpg"
+  }
+}
+
+Notice: Undefined variable: dpsaceID in C:\xampp\htdocs\BandoCat\TDLPublish\UpdateCron\updatecron.php on line 689
+Array
+(
+    [url] => https://tamucc-ir.tdl.org/rest/items//metadata
+    [content_type] => text/html;charset=utf-8
+    [http_code] => 404
+    [header_size] => 281
+    [request_size] => 235
+    [filetime] => -1
+    [ssl_verify_result] => 0
+    [redirect_count] => 0
+    [total_time] => 0.266
+    [namelookup_time] => 0.016
+    [connect_time] => 0.063
+    [pretransfer_time] => 0.188
+    [size_upload] => 1706
+    [size_download] => 1078
+    [speed_download] => 1078
+    [speed_upload] => 1706
+    [download_content_length] => 1078
+    [upload_content_length] => 1706
+    [starttransfer_time] => 0.219
+    [redirect_time] => 0
+    [redirect_url] => 
+    [primary_ip] => 54.172.26.191
+    [certinfo] => Array
+        (
+        )
+
+    [primary_port] => 443
+    [local_ip] => 10.20.2.148
+    [local_port] => 61556
+)
+bool(false)
+string(19) "HAS FRONT??? -----^"
+string(26) "PUBLIC BITSTREAM COUNT = 1"
+string(28) "INTERNAL BITSTREAM COUNT = 1"
+string(45) "THE PUBLIC IS LESS THAN OR = TOO THE INTERNAL"
+string(35) "NOTHINGS WRONG WITH JPG: 2BL-66.jpg"
+array(1) {
+  [0]=>
+  object(InternalBitstream)#15 (4) {
+    ["name"]=>
+    string(10) "2BL-66.jpg"
+    ["type"]=>
+    string(8) "frontJPG"
+    ["md5_checksum"]=>
+    string(32) "8071dd7c7d89d5dc47fa5f444987d81e"
+    ["path"]=>
+    string(43) "M:/BlucherCollection/uploads/2BL/2BL-66.jpg"
+  }
+}
+
+Notice: Undefined variable: dpsaceID in C:\xampp\htdocs\BandoCat\TDLPublish\UpdateCron\updatecron.php on line 689
+Array
+(
+    [url] => https://tamucc-ir.tdl.org/rest/items//metadata
+    [content_type] => text/html;charset=utf-8
+    [http_code] => 404
+    [header_size] => 281
+    [request_size] => 235
+    [filetime] => -1
+    [ssl_verify_result] => 0
+    [redirect_count] => 0
+    [total_time] => 0.281
+    [namelookup_time] => 0.031
+    [connect_time] => 0.078
+    [pretransfer_time] => 0.203
+    [size_upload] => 1698
+    [size_download] => 1078
+    [speed_download] => 1078
+    [speed_upload] => 1698
+    [download_content_length] => 1078
+    [upload_content_length] => 1698
+    [starttransfer_time] => 0.25
+    [redirect_time] => 0
+    [redirect_url] => 
+    [primary_ip] => 54.172.26.191
+    [certinfo] => Array
+        (
+        )
+
+    [primary_port] => 443
+    [local_ip] => 10.20.2.148
+    [local_port] => 61559
+)
+bool(false)
+string(19) "HAS FRONT??? -----^"
+string(26) "PUBLIC BITSTREAM COUNT = 1"
+string(28) "INTERNAL BITSTREAM COUNT = 1"
+string(45) "THE PUBLIC IS LESS THAN OR = TOO THE INTERNAL"
+string(35) "NOTHINGS WRONG WITH JPG: 2BL-67.jpg"
+array(1) {
+  [0]=>
+  object(InternalBitstream)#21 (4) {
+    ["name"]=>
+    string(10) "2BL-67.jpg"
+    ["type"]=>
+    string(8) "frontJPG"
+    ["md5_checksum"]=>
+    string(32) "43b95ef3e0a57a21b959a114a311a771"
+    ["path"]=>
+    string(43) "M:/BlucherCollection/uploads/2BL/2BL-67.jpg"
+  }
+}
+
+Notice: Undefined variable: dpsaceID in C:\xampp\htdocs\BandoCat\TDLPublish\UpdateCron\updatecron.php on line 689
+Array
+(
+    [url] => https://tamucc-ir.tdl.org/rest/items//metadata
+    [content_type] => text/html;charset=utf-8
+    [http_code] => 404
+    [header_size] => 281
+    [request_size] => 235
+    [filetime] => -1
+    [ssl_verify_result] => 0
+    [redirect_count] => 0
+    [total_time] => 0.266
+    [namelookup_time] => 0.016
+    [connect_time] => 0.063
+    [pretransfer_time] => 0.188
+    [size_upload] => 1564
+    [size_download] => 1078
+    [speed_download] => 1078
+    [speed_upload] => 1564
+    [download_content_length] => 1078
+    [upload_content_length] => 1564
+    [starttransfer_time] => 0.219
+    [redirect_time] => 0
+    [redirect_url] => 
+    [primary_ip] => 54.172.26.191
+    [certinfo] => Array
+        (
+        )
+
+    [primary_port] => 443
+    [local_ip] => 10.20.2.148
+    [local_port] => 61562
+)
+bool(true)
+string(19) "HAS FRONT??? -----^"
+string(26) "PUBLIC BITSTREAM COUNT = 3"
+string(28) "INTERNAL BITSTREAM COUNT = 3"
+string(45) "THE PUBLIC IS LESS THAN OR = TOO THE INTERNAL"
+string(35) "NOTHINGS WRONG WITH JPG: 2BL-68.jpg"
+string(46) "NOTHINGS WRONG WITH TIFF: 2BL-68_rectified.tif"
+string(35) "NOTHINGS WRONG WITH KMZ: 2BL-68.kmz"
+array(3) {
+  [0]=>
+  object(InternalBitstream)#5 (4) {
+    ["name"]=>
+    string(10) "2BL-68.jpg"
+    ["type"]=>
+    string(8) "frontJPG"
+    ["md5_checksum"]=>
+    string(32) "b4bcc116bed9b987882bcc3d9a2d2aaa"
+    ["path"]=>
+    string(43) "M:/BlucherCollection/uploads/2BL/2BL-68.jpg"
+  }
+  [1]=>
+  object(InternalBitstream)#17 (4) {
+    ["name"]=>
+    string(20) "2BL-68_rectified.tif"
+    ["type"]=>
+    string(12) "frontGeoTIFF"
+    ["md5_checksum"]=>
+    string(32) "ac1ba7f50383192f4d5ea246444c564b"
+    ["path"]=>
+    string(52) "M:/BlucherCollection/georec/2BL/2BL-68_rectified.tif"
+  }
+  [2]=>
+  object(InternalBitstream)#26 (4) {
+    ["name"]=>
+    string(10) "2BL-68.kmz"
+    ["type"]=>
+    string(8) "frontKMZ"
+    ["md5_checksum"]=>
+    string(32) "17ddb9eed4106b9d790c44406e499731"
+    ["path"]=>
+    string(42) "M:/BlucherCollection/georec/2BL/2BL-68.kmz"
+  }
+}
+
+Notice: Undefined variable: dpsaceID in C:\xampp\htdocs\BandoCat\TDLPublish\UpdateCron\updatecron.php on line 689
+Array
+(
+    [url] => https://tamucc-ir.tdl.org/rest/items//metadata
+    [content_type] => text/html;charset=utf-8
+    [http_code] => 404
+    [header_size] => 281
+    [request_size] => 235
+    [filetime] => -1
+    [ssl_verify_result] => 0
+    [redirect_count] => 0
+    [total_time] => 0.265
+    [namelookup_time] => 0.015
+    [connect_time] => 0.062
+    [pretransfer_time] => 0.187
+    [size_upload] => 1622
+    [size_download] => 1078
+    [speed_download] => 1078
+    [speed_upload] => 1622
+    [download_content_length] => 1078
+    [upload_content_length] => 1622
+    [starttransfer_time] => 0.219
+    [redirect_time] => 0
+    [redirect_url] => 
+    [primary_ip] => 54.172.26.191
+    [certinfo] => Array
+        (
+        )
+
+    [primary_port] => 443
+    [local_ip] => 10.20.2.148
+    [local_port] => 61565
+)
+bool(false)
+string(19) "HAS FRONT??? -----^"
+string(26) "PUBLIC BITSTREAM COUNT = 1"
+string(28) "INTERNAL BITSTREAM COUNT = 1"
+string(45) "THE PUBLIC IS LESS THAN OR = TOO THE INTERNAL"
+string(35) "NOTHINGS WRONG WITH JPG: 2BL-71.jpg"
+array(1) {
+  [0]=>
+  object(InternalBitstream)#17 (4) {
+    ["name"]=>
+    string(10) "2BL-71.jpg"
+    ["type"]=>
+    string(8) "frontJPG"
+    ["md5_checksum"]=>
+    string(32) "e9b499b199de645f2df1bcec97de0679"
+    ["path"]=>
+    string(43) "M:/BlucherCollection/uploads/2BL/2BL-71.jpg"
+  }
+}
+
+Notice: Undefined variable: dpsaceID in C:\xampp\htdocs\BandoCat\TDLPublish\UpdateCron\updatecron.php on line 689
+Array
+(
+    [url] => https://tamucc-ir.tdl.org/rest/items//metadata
+    [content_type] => text/html;charset=utf-8
+    [http_code] => 404
+    [header_size] => 281
+    [request_size] => 235
+    [filetime] => -1
+    [ssl_verify_result] => 0
+    [redirect_count] => 0
+    [total_time] => 0.281
+    [namelookup_time] => 0.015
+    [connect_time] => 0.062
+    [pretransfer_time] => 0.187
+    [size_upload] => 1580
+    [size_download] => 1078
+    [speed_download] => 1078
+    [speed_upload] => 1580
+    [download_content_length] => 1078
+    [upload_content_length] => 1580
+    [starttransfer_time] => 0.25
+    [redirect_time] => 0
+    [redirect_url] => 
+    [primary_ip] => 54.172.26.191
+    [certinfo] => Array
+        (
+        )
+
+    [primary_port] => 443
+    [local_ip] => 10.20.2.148
+    [local_port] => 61568
+)
+bool(false)
+string(19) "HAS FRONT??? -----^"
+string(26) "PUBLIC BITSTREAM COUNT = 1"
+string(28) "INTERNAL BITSTREAM COUNT = 1"
+string(45) "THE PUBLIC IS LESS THAN OR = TOO THE INTERNAL"
+string(35) "NOTHINGS WRONG WITH JPG: 2BL-72.jpg"
+array(1) {
+  [0]=>
+  object(InternalBitstream)#9 (4) {
+    ["name"]=>
+    string(10) "2BL-72.jpg"
+    ["type"]=>
+    string(8) "frontJPG"
+    ["md5_checksum"]=>
+    string(32) "b37416f52d3c956be79a716e628133a8"
+    ["path"]=>
+    string(43) "M:/BlucherCollection/uploads/2BL/2BL-72.jpg"
+  }
+}
+
+Notice: Undefined variable: dpsaceID in C:\xampp\htdocs\BandoCat\TDLPublish\UpdateCron\updatecron.php on line 689
+Array
+(
+    [url] => https://tamucc-ir.tdl.org/rest/items//metadata
+    [content_type] => text/html;charset=utf-8
+    [http_code] => 404
+    [header_size] => 281
+    [request_size] => 235
+    [filetime] => -1
+    [ssl_verify_result] => 0
+    [redirect_count] => 0
+    [total_time] => 0.265
+    [namelookup_time] => 0.015
+    [connect_time] => 0.047
+    [pretransfer_time] => 0.187
+    [size_upload] => 1529
+    [size_download] => 1078
+    [speed_download] => 1078
+    [speed_upload] => 1529
+    [download_content_length] => 1078
+    [upload_content_length] => 1529
+    [starttransfer_time] => 0.219
+    [redirect_time] => 0
+    [redirect_url] => 
+    [primary_ip] => 54.172.26.191
+    [certinfo] => Array
+        (
+        )
+
+    [primary_port] => 443
+    [local_ip] => 10.20.2.148
+    [local_port] => 61571
+)
+bool(false)
+string(19) "HAS FRONT??? -----^"
+string(26) "PUBLIC BITSTREAM COUNT = 1"
+string(28) "INTERNAL BITSTREAM COUNT = 1"
+string(45) "THE PUBLIC IS LESS THAN OR = TOO THE INTERNAL"
+string(35) "NOTHINGS WRONG WITH JPG: 2BL-73.jpg"
+array(1) {
+  [0]=>
+  object(InternalBitstream)#7 (4) {
+    ["name"]=>
+    string(10) "2BL-73.jpg"
+    ["type"]=>
+    string(8) "frontJPG"
+    ["md5_checksum"]=>
+    string(32) "1ffd7e82a8b6e25abf51329c2b136aa9"
+    ["path"]=>
+    string(43) "M:/BlucherCollection/uploads/2BL/2BL-73.jpg"
+  }
+}
+
+Notice: Undefined variable: dpsaceID in C:\xampp\htdocs\BandoCat\TDLPublish\UpdateCron\updatecron.php on line 689
+Array
+(
+    [url] => https://tamucc-ir.tdl.org/rest/items//metadata
+    [content_type] => text/html;charset=utf-8
+    [http_code] => 404
+    [header_size] => 281
+    [request_size] => 235
+    [filetime] => -1
+    [ssl_verify_result] => 0
+    [redirect_count] => 0
+    [total_time] => 0.266
+    [namelookup_time] => 0.016
+    [connect_time] => 0.047
+    [pretransfer_time] => 0.188
+    [size_upload] => 1681
+    [size_download] => 1078
+    [speed_download] => 1078
+    [speed_upload] => 1681
+    [download_content_length] => 1078
+    [upload_content_length] => 1681
+    [starttransfer_time] => 0.219
+    [redirect_time] => 0
+    [redirect_url] => 
+    [primary_ip] => 54.172.26.191
+    [certinfo] => Array
+        (
+        )
+
+    [primary_port] => 443
+    [local_ip] => 10.20.2.148
+    [local_port] => 61574
+)
+bool(true)
+string(19) "HAS FRONT??? -----^"
+string(26) "PUBLIC BITSTREAM COUNT = 3"
+string(28) "INTERNAL BITSTREAM COUNT = 3"
+string(45) "THE PUBLIC IS LESS THAN OR = TOO THE INTERNAL"
+string(35) "NOTHINGS WRONG WITH JPG: 2BL-74.jpg"
+string(46) "NOTHINGS WRONG WITH TIFF: 2BL-74_rectified.tif"
+string(35) "NOTHINGS WRONG WITH KMZ: 2BL-74.kmz"
+array(3) {
+  [0]=>
+  object(InternalBitstream)#18 (4) {
+    ["name"]=>
+    string(10) "2BL-74.jpg"
+    ["type"]=>
+    string(8) "frontJPG"
+    ["md5_checksum"]=>
+    string(32) "433fbf6a0fbbe3e4f7d547ed75373282"
+    ["path"]=>
+    string(43) "M:/BlucherCollection/uploads/2BL/2BL-74.jpg"
+  }
+  [1]=>
+  object(InternalBitstream)#26 (4) {
+    ["name"]=>
+    string(20) "2BL-74_rectified.tif"
+    ["type"]=>
+    string(12) "frontGeoTIFF"
+    ["md5_checksum"]=>
+    string(32) "b7e5872efb5daa5533c0948b04a7acce"
+    ["path"]=>
+    string(52) "M:/BlucherCollection/georec/2BL/2BL-74_rectified.tif"
+  }
+  [2]=>
+  object(InternalBitstream)#28 (4) {
+    ["name"]=>
+    string(10) "2BL-74.kmz"
+    ["type"]=>
+    string(8) "frontKMZ"
+    ["md5_checksum"]=>
+    string(32) "8148091de1cc6c5b458edaba2983b482"
+    ["path"]=>
+    string(42) "M:/BlucherCollection/georec/2BL/2BL-74.kmz"
+  }
+}
+
+Notice: Undefined variable: dpsaceID in C:\xampp\htdocs\BandoCat\TDLPublish\UpdateCron\updatecron.php on line 689
+Array
+(
+    [url] => https://tamucc-ir.tdl.org/rest/items//metadata
+    [content_type] => text/html;charset=utf-8
+    [http_code] => 404
+    [header_size] => 281
+    [request_size] => 235
+    [filetime] => -1
+    [ssl_verify_result] => 0
+    [redirect_count] => 0
+    [total_time] => 0.265
+    [namelookup_time] => 0.015
+    [connect_time] => 0.047
+    [pretransfer_time] => 0.187
+    [size_upload] => 1662
+    [size_download] => 1078
+    [speed_download] => 1078
+    [speed_upload] => 1662
+    [download_content_length] => 1078
+    [upload_content_length] => 1662
+    [starttransfer_time] => 0.219
+    [redirect_time] => 0
+    [redirect_url] => 
+    [primary_ip] => 54.172.26.191
+    [certinfo] => Array
+        (
+        )
+
+    [primary_port] => 443
+    [local_ip] => 10.20.2.148
+    [local_port] => 61577
+)
+bool(false)
+string(19) "HAS FRONT??? -----^"
+string(26) "PUBLIC BITSTREAM COUNT = 1"
+string(28) "INTERNAL BITSTREAM COUNT = 1"
+string(45) "THE PUBLIC IS LESS THAN OR = TOO THE INTERNAL"
+string(35) "NOTHINGS WRONG WITH JPG: 2BL-75.jpg"
+array(1) {
+  [0]=>
+  object(InternalBitstream)#26 (4) {
+    ["name"]=>
+    string(10) "2BL-75.jpg"
+    ["type"]=>
+    string(8) "frontJPG"
+    ["md5_checksum"]=>
+    string(32) "bb82549a66fd40a93b769446d3b9ac2f"
+    ["path"]=>
+    string(43) "M:/BlucherCollection/uploads/2BL/2BL-75.jpg"
+  }
+}
+
+Notice: Undefined variable: dpsaceID in C:\xampp\htdocs\BandoCat\TDLPublish\UpdateCron\updatecron.php on line 689
+Array
+(
+    [url] => https://tamucc-ir.tdl.org/rest/items//metadata
+    [content_type] => text/html;charset=utf-8
+    [http_code] => 404
+    [header_size] => 281
+    [request_size] => 235
+    [filetime] => -1
+    [ssl_verify_result] => 0
+    [redirect_count] => 0
+    [total_time] => 0.265
+    [namelookup_time] => 0.015
+    [connect_time] => 0.062
+    [pretransfer_time] => 0.171
+    [size_upload] => 1655
+    [size_download] => 1078
+    [speed_download] => 1078
+    [speed_upload] => 1655
+    [download_content_length] => 1078
+    [upload_content_length] => 1655
+    [starttransfer_time] => 0.218
+    [redirect_time] => 0
+    [redirect_url] => 
+    [primary_ip] => 54.172.26.191
+    [certinfo] => Array
+        (
+        )
+
+    [primary_port] => 443
+    [local_ip] => 10.20.2.148
+    [local_port] => 61580
+)
+bool(false)
+string(19) "HAS FRONT??? -----^"
+string(26) "PUBLIC BITSTREAM COUNT = 1"
+string(28) "INTERNAL BITSTREAM COUNT = 1"
+string(45) "THE PUBLIC IS LESS THAN OR = TOO THE INTERNAL"
+string(35) "NOTHINGS WRONG WITH JPG: 2BL-76.jpg"
+array(1) {
+  [0]=>
+  object(InternalBitstream)#19 (4) {
+    ["name"]=>
+    string(10) "2BL-76.jpg"
+    ["type"]=>
+    string(8) "frontJPG"
+    ["md5_checksum"]=>
+    string(32) "ceaae7b8f46e6969c4ec8478e194ed7e"
+    ["path"]=>
+    string(43) "M:/BlucherCollection/uploads/2BL/2BL-76.jpg"
+  }
+}
+
+Notice: Undefined variable: dpsaceID in C:\xampp\htdocs\BandoCat\TDLPublish\UpdateCron\updatecron.php on line 689
+Array
+(
+    [url] => https://tamucc-ir.tdl.org/rest/items//metadata
+    [content_type] => text/html;charset=utf-8
+    [http_code] => 404
+    [header_size] => 281
+    [request_size] => 235
+    [filetime] => -1
+    [ssl_verify_result] => 0
+    [redirect_count] => 0
+    [total_time] => 0.265
+    [namelookup_time] => 0.015
+    [connect_time] => 0.062
+    [pretransfer_time] => 0.187
+    [size_upload] => 1587
+    [size_download] => 1078
+    [speed_download] => 1078
+    [speed_upload] => 1587
+    [download_content_length] => 1078
+    [upload_content_length] => 1587
+    [starttransfer_time] => 0.219
+    [redirect_time] => 0
+    [redirect_url] => 
+    [primary_ip] => 54.172.26.191
+    [certinfo] => Array
+        (
+        )
+
+    [primary_port] => 443
+    [local_ip] => 10.20.2.148
+    [local_port] => 61583
+)
+bool(true)
+string(19) "HAS FRONT??? -----^"
+string(26) "PUBLIC BITSTREAM COUNT = 3"
+string(28) "INTERNAL BITSTREAM COUNT = 3"
+string(45) "THE PUBLIC IS LESS THAN OR = TOO THE INTERNAL"
+string(35) "NOTHINGS WRONG WITH JPG: 2BL-77.jpg"
+string(46) "NOTHINGS WRONG WITH TIFF: 2BL-77_rectified.tif"
+string(35) "NOTHINGS WRONG WITH KMZ: 2BL-77.kmz"
+array(3) {
+  [0]=>
+  object(InternalBitstream)#27 (4) {
+    ["name"]=>
+    string(10) "2BL-77.jpg"
+    ["type"]=>
+    string(8) "frontJPG"
+    ["md5_checksum"]=>
+    string(32) "2e273af06dd6acd99a4f923c06629d1c"
+    ["path"]=>
+    string(43) "M:/BlucherCollection/uploads/2BL/2BL-77.jpg"
+  }
+  [1]=>
+  object(InternalBitstream)#7 (4) {
+    ["name"]=>
+    string(20) "2BL-77_rectified.tif"
+    ["type"]=>
+    string(12) "frontGeoTIFF"
+    ["md5_checksum"]=>
+    string(32) "60caed82f6161fea196f1333d3726523"
+    ["path"]=>
+    string(52) "M:/BlucherCollection/georec/2BL/2BL-77_rectified.tif"
+  }
+  [2]=>
+  object(InternalBitstream)#11 (4) {
+    ["name"]=>
+    string(10) "2BL-77.kmz"
+    ["type"]=>
+    string(8) "frontKMZ"
+    ["md5_checksum"]=>
+    string(32) "106e0b0c186374fcdc2368299b358042"
+    ["path"]=>
+    string(42) "M:/BlucherCollection/georec/2BL/2BL-77.kmz"
+  }
+}
+
+Notice: Undefined variable: dpsaceID in C:\xampp\htdocs\BandoCat\TDLPublish\UpdateCron\updatecron.php on line 689
+Array
+(
+    [url] => https://tamucc-ir.tdl.org/rest/items//metadata
+    [content_type] => text/html;charset=utf-8
+    [http_code] => 404
+    [header_size] => 281
+    [request_size] => 235
+    [filetime] => -1
+    [ssl_verify_result] => 0
+    [redirect_count] => 0
+    [total_time] => 0.266
+    [namelookup_time] => 0.016
+    [connect_time] => 0.047
+    [pretransfer_time] => 0.172
+    [size_upload] => 1468
+    [size_download] => 1078
+    [speed_download] => 1078
+    [speed_upload] => 1468
+    [download_content_length] => 1078
+    [upload_content_length] => 1468
+    [starttransfer_time] => 0.219
+    [redirect_time] => 0
+    [redirect_url] => 
+    [primary_ip] => 54.172.26.191
+    [certinfo] => Array
+        (
+        )
+
+    [primary_port] => 443
+    [local_ip] => 10.20.2.148
+    [local_port] => 61586
+)
+bool(false)
+string(19) "HAS FRONT??? -----^"
+string(26) "PUBLIC BITSTREAM COUNT = 1"
+string(28) "INTERNAL BITSTREAM COUNT = 1"
+string(45) "THE PUBLIC IS LESS THAN OR = TOO THE INTERNAL"
+string(35) "NOTHINGS WRONG WITH JPG: 2BL-78.jpg"
+array(1) {
+  [0]=>
+  object(InternalBitstream)#7 (4) {
+    ["name"]=>
+    string(10) "2BL-78.jpg"
+    ["type"]=>
+    string(8) "frontJPG"
+    ["md5_checksum"]=>
+    string(32) "abd977bf1a3299f951b2a68326fc7ccd"
+    ["path"]=>
+    string(43) "M:/BlucherCollection/uploads/2BL/2BL-78.jpg"
+  }
+}
+
+Notice: Undefined variable: dpsaceID in C:\xampp\htdocs\BandoCat\TDLPublish\UpdateCron\updatecron.php on line 689
+Array
+(
+    [url] => https://tamucc-ir.tdl.org/rest/items//metadata
+    [content_type] => text/html;charset=utf-8
+    [http_code] => 404
+    [header_size] => 281
+    [request_size] => 235
+    [filetime] => -1
+    [ssl_verify_result] => 0
+    [redirect_count] => 0
+    [total_time] => 0.265
+    [namelookup_time] => 0.015
+    [connect_time] => 0.046
+    [pretransfer_time] => 0.187
+    [size_upload] => 1644
+    [size_download] => 1078
+    [speed_download] => 1078
+    [speed_upload] => 1644
+    [download_content_length] => 1078
+    [upload_content_length] => 1644
+    [starttransfer_time] => 0.218
+    [redirect_time] => 0
+    [redirect_url] => 
+    [primary_ip] => 54.172.26.191
+    [certinfo] => Array
+        (
+        )
+
+    [primary_port] => 443
+    [local_ip] => 10.20.2.148
+    [local_port] => 61589
+)
+bool(false)
+string(19) "HAS FRONT??? -----^"
+string(26) "PUBLIC BITSTREAM COUNT = 1"
+string(28) "INTERNAL BITSTREAM COUNT = 1"
+string(45) "THE PUBLIC IS LESS THAN OR = TOO THE INTERNAL"
+string(35) "NOTHINGS WRONG WITH JPG: 2BL-79.jpg"
+array(1) {
+  [0]=>
+  object(InternalBitstream)#15 (4) {
+    ["name"]=>
+    string(10) "2BL-79.jpg"
+    ["type"]=>
+    string(8) "frontJPG"
+    ["md5_checksum"]=>
+    string(32) "3af1c3121f117458c2f0ce5fab23a0b1"
+    ["path"]=>
+    string(43) "M:/BlucherCollection/uploads/2BL/2BL-79.jpg"
+  }
+}
+
+Notice: Undefined variable: dpsaceID in C:\xampp\htdocs\BandoCat\TDLPublish\UpdateCron\updatecron.php on line 689
+Array
+(
+    [url] => https://tamucc-ir.tdl.org/rest/items//metadata
+    [content_type] => text/html;charset=utf-8
+    [http_code] => 404
+    [header_size] => 281
+    [request_size] => 235
+    [filetime] => -1
+    [ssl_verify_result] => 0
+    [redirect_count] => 0
+    [total_time] => 0.265
+    [namelookup_time] => 0.015
+    [connect_time] => 0.062
+    [pretransfer_time] => 0.171
+    [size_upload] => 1668
+    [size_download] => 1078
+    [speed_download] => 1078
+    [speed_upload] => 1668
+    [download_content_length] => 1078
+    [upload_content_length] => 1668
+    [starttransfer_time] => 0.218
+    [redirect_time] => 0
+    [redirect_url] => 
+    [primary_ip] => 54.172.26.191
+    [certinfo] => Array
+        (
+        )
+
+    [primary_port] => 443
+    [local_ip] => 10.20.2.148
+    [local_port] => 61592
+)
+bool(false)
+string(19) "HAS FRONT??? -----^"
+string(26) "PUBLIC BITSTREAM COUNT = 1"
+string(28) "INTERNAL BITSTREAM COUNT = 1"
+string(45) "THE PUBLIC IS LESS THAN OR = TOO THE INTERNAL"
+string(35) "NOTHINGS WRONG WITH JPG: 2BL-80.jpg"
+array(1) {
+  [0]=>
+  object(InternalBitstream)#6 (4) {
+    ["name"]=>
+    string(10) "2BL-80.jpg"
+    ["type"]=>
+    string(8) "frontJPG"
+    ["md5_checksum"]=>
+    string(32) "b6ffd1df8ad14b6352351a70074b45ff"
+    ["path"]=>
+    string(43) "M:/BlucherCollection/uploads/2BL/2BL-80.jpg"
+  }
+}
+
+Notice: Undefined variable: dpsaceID in C:\xampp\htdocs\BandoCat\TDLPublish\UpdateCron\updatecron.php on line 689
+Array
+(
+    [url] => https://tamucc-ir.tdl.org/rest/items//metadata
+    [content_type] => text/html;charset=utf-8
+    [http_code] => 404
+    [header_size] => 281
+    [request_size] => 235
+    [filetime] => -1
+    [ssl_verify_result] => 0
+    [redirect_count] => 0
+    [total_time] => 0.266
+    [namelookup_time] => 0.016
+    [connect_time] => 0.047
+    [pretransfer_time] => 0.172
+    [size_upload] => 1592
+    [size_download] => 1078
+    [speed_download] => 1078
+    [speed_upload] => 1592
+    [download_content_length] => 1078
+    [upload_content_length] => 1592
+    [starttransfer_time] => 0.219
+    [redirect_time] => 0
+    [redirect_url] => 
+    [primary_ip] => 54.172.26.191
+    [certinfo] => Array
+        (
+        )
+
+    [primary_port] => 443
+    [local_ip] => 10.20.2.148
+    [local_port] => 61595
+)
+bool(false)
+string(19) "HAS FRONT??? -----^"
+string(26) "PUBLIC BITSTREAM COUNT = 1"
+string(28) "INTERNAL BITSTREAM COUNT = 1"
+string(45) "THE PUBLIC IS LESS THAN OR = TOO THE INTERNAL"
+string(35) "NOTHINGS WRONG WITH JPG: 2BL-81.jpg"
+array(1) {
+  [0]=>
+  object(InternalBitstream)#5 (4) {
+    ["name"]=>
+    string(10) "2BL-81.jpg"
+    ["type"]=>
+    string(8) "frontJPG"
+    ["md5_checksum"]=>
+    string(32) "3633a8ec359eeb4614e1ac49392f75a5"
+    ["path"]=>
+    string(43) "M:/BlucherCollection/uploads/2BL/2BL-81.jpg"
+  }
+}
+
+Notice: Undefined variable: dpsaceID in C:\xampp\htdocs\BandoCat\TDLPublish\UpdateCron\updatecron.php on line 689
+Array
+(
+    [url] => https://tamucc-ir.tdl.org/rest/items//metadata
+    [content_type] => text/html;charset=utf-8
+    [http_code] => 404
+    [header_size] => 281
+    [request_size] => 235
+    [filetime] => -1
+    [ssl_verify_result] => 0
+    [redirect_count] => 0
+    [total_time] => 0.266
+    [namelookup_time] => 0.016
+    [connect_time] => 0.047
+    [pretransfer_time] => 0.172
+    [size_upload] => 1652
+    [size_download] => 1078
+    [speed_download] => 1078
+    [speed_upload] => 1652
+    [download_content_length] => 1078
+    [upload_content_length] => 1652
+    [starttransfer_time] => 0.219
+    [redirect_time] => 0
+    [redirect_url] => 
+    [primary_ip] => 54.172.26.191
+    [certinfo] => Array
+        (
+        )
+
+    [primary_port] => 443
+    [local_ip] => 10.20.2.148
+    [local_port] => 61598
+)
+bool(false)
+string(19) "HAS FRONT??? -----^"
+string(26) "PUBLIC BITSTREAM COUNT = 1"
+string(28) "INTERNAL BITSTREAM COUNT = 1"
+string(45) "THE PUBLIC IS LESS THAN OR = TOO THE INTERNAL"
+string(35) "NOTHINGS WRONG WITH JPG: 2BL-82.jpg"
+array(1) {
+  [0]=>
+  object(InternalBitstream)#18 (4) {
+    ["name"]=>
+    string(10) "2BL-82.jpg"
+    ["type"]=>
+    string(8) "frontJPG"
+    ["md5_checksum"]=>
+    string(32) "bacd47bd0db1986d2923e942fe0b0ef7"
+    ["path"]=>
+    string(43) "M:/BlucherCollection/uploads/2BL/2BL-82.jpg"
+  }
+}
+
+Notice: Undefined variable: dpsaceID in C:\xampp\htdocs\BandoCat\TDLPublish\UpdateCron\updatecron.php on line 689
+Array
+(
+    [url] => https://tamucc-ir.tdl.org/rest/items//metadata
+    [content_type] => text/html;charset=utf-8
+    [http_code] => 404
+    [header_size] => 281
+    [request_size] => 235
+    [filetime] => -1
+    [ssl_verify_result] => 0
+    [redirect_count] => 0
+    [total_time] => 0.265
+    [namelookup_time] => 0.015
+    [connect_time] => 0.046
+    [pretransfer_time] => 0.171
+    [size_upload] => 1571
+    [size_download] => 1078
+    [speed_download] => 1078
+    [speed_upload] => 1571
+    [download_content_length] => 1078
+    [upload_content_length] => 1571
+    [starttransfer_time] => 0.218
+    [redirect_time] => 0
+    [redirect_url] => 
+    [primary_ip] => 54.172.26.191
+    [certinfo] => Array
+        (
+        )
+
+    [primary_port] => 443
+    [local_ip] => 10.20.2.148
+    [local_port] => 61638
+)
+bool(true)
+string(19) "HAS FRONT??? -----^"
+string(26) "PUBLIC BITSTREAM COUNT = 3"
+string(28) "INTERNAL BITSTREAM COUNT = 3"
+string(45) "THE PUBLIC IS LESS THAN OR = TOO THE INTERNAL"
+string(35) "NOTHINGS WRONG WITH JPG: 2BL-83.jpg"
+string(46) "NOTHINGS WRONG WITH TIFF: 2BL-83_rectified.tif"
+string(35) "NOTHINGS WRONG WITH KMZ: 2BL-83.kmz"
+array(3) {
+  [0]=>
+  object(InternalBitstream)#21 (4) {
+    ["name"]=>
+    string(10) "2BL-83.jpg"
+    ["type"]=>
+    string(8) "frontJPG"
+    ["md5_checksum"]=>
+    string(32) "2f1c475f17d52977aed89a4a9004e6eb"
+    ["path"]=>
+    string(43) "M:/BlucherCollection/uploads/2BL/2BL-83.jpg"
+  }
+  [1]=>
+  object(InternalBitstream)#15 (4) {
+    ["name"]=>
+    string(20) "2BL-83_rectified.tif"
+    ["type"]=>
+    string(12) "frontGeoTIFF"
+    ["md5_checksum"]=>
+    string(32) "d328ac526b4cc504eae22ea692c29038"
+    ["path"]=>
+    string(52) "M:/BlucherCollection/georec/2BL/2BL-83_rectified.tif"
+  }
+  [2]=>
+  object(InternalBitstream)#8 (4) {
+    ["name"]=>
+    string(10) "2BL-83.kmz"
+    ["type"]=>
+    string(8) "frontKMZ"
+    ["md5_checksum"]=>
+    string(32) "0db93074ec79366073121f8ec3d32b21"
+    ["path"]=>
+    string(42) "M:/BlucherCollection/georec/2BL/2BL-83.kmz"
+  }
+}
+
+Notice: Undefined variable: dpsaceID in C:\xampp\htdocs\BandoCat\TDLPublish\UpdateCron\updatecron.php on line 689
+Array
+(
+    [url] => https://tamucc-ir.tdl.org/rest/items//metadata
+    [content_type] => text/html;charset=utf-8
+    [http_code] => 404
+    [header_size] => 281
+    [request_size] => 235
+    [filetime] => -1
+    [ssl_verify_result] => 0
+    [redirect_count] => 0
+    [total_time] => 0.266
+    [namelookup_time] => 0.016
+    [connect_time] => 0.047
+    [pretransfer_time] => 0.172
+    [size_upload] => 1603
+    [size_download] => 1078
+    [speed_download] => 1078
+    [speed_upload] => 1603
+    [download_content_length] => 1078
+    [upload_content_length] => 1603
+    [starttransfer_time] => 0.219
+    [redirect_time] => 0
+    [redirect_url] => 
+    [primary_ip] => 54.172.26.191
+    [certinfo] => Array
+        (
+        )
+
+    [primary_port] => 443
+    [local_ip] => 10.20.2.148
+    [local_port] => 61648
+)
+bool(true)
+string(19) "HAS FRONT??? -----^"
+string(26) "PUBLIC BITSTREAM COUNT = 3"
+string(28) "INTERNAL BITSTREAM COUNT = 3"
+string(45) "THE PUBLIC IS LESS THAN OR = TOO THE INTERNAL"
+string(35) "NOTHINGS WRONG WITH JPG: 2BL-84.jpg"
+string(46) "NOTHINGS WRONG WITH TIFF: 2BL-84_rectified.tif"
+string(35) "NOTHINGS WRONG WITH KMZ: 2BL-84.kmz"
+array(3) {
+  [0]=>
+  object(InternalBitstream)#15 (4) {
+    ["name"]=>
+    string(10) "2BL-84.jpg"
+    ["type"]=>
+    string(8) "frontJPG"
+    ["md5_checksum"]=>
+    string(32) "06a17463e526274d1e698dd074a2bf9c"
+    ["path"]=>
+    string(43) "M:/BlucherCollection/uploads/2BL/2BL-84.jpg"
+  }
+  [1]=>
+  object(InternalBitstream)#21 (4) {
+    ["name"]=>
+    string(20) "2BL-84_rectified.tif"
+    ["type"]=>
+    string(12) "frontGeoTIFF"
+    ["md5_checksum"]=>
+    string(32) "8c897cf7d6ea1205c50844644e462e5b"
+    ["path"]=>
+    string(52) "M:/BlucherCollection/georec/2BL/2BL-84_rectified.tif"
+  }
+  [2]=>
+  object(InternalBitstream)#10 (4) {
+    ["name"]=>
+    string(10) "2BL-84.kmz"
+    ["type"]=>
+    string(8) "frontKMZ"
+    ["md5_checksum"]=>
+    string(32) "f987855a2cb1e7cf0a8443c072d72784"
+    ["path"]=>
+    string(42) "M:/BlucherCollection/georec/2BL/2BL-84.kmz"
+  }
+}
+
+Notice: Undefined variable: dpsaceID in C:\xampp\htdocs\BandoCat\TDLPublish\UpdateCron\updatecron.php on line 689
+Array
+(
+    [url] => https://tamucc-ir.tdl.org/rest/items//metadata
+    [content_type] => text/html;charset=utf-8
+    [http_code] => 404
+    [header_size] => 281
+    [request_size] => 235
+    [filetime] => -1
+    [ssl_verify_result] => 0
+    [redirect_count] => 0
+    [total_time] => 0.266
+    [namelookup_time] => 0.016
+    [connect_time] => 0.047
+    [pretransfer_time] => 0.172
+    [size_upload] => 1574
+    [size_download] => 1078
+    [speed_download] => 1078
+    [speed_upload] => 1574
+    [download_content_length] => 1078
+    [upload_content_length] => 1574
+    [starttransfer_time] => 0.219
+    [redirect_time] => 0
+    [redirect_url] => 
+    [primary_ip] => 54.172.26.191
+    [certinfo] => Array
+        (
+        )
+
+    [primary_port] => 443
+    [local_ip] => 10.20.2.148
+    [local_port] => 61654
+)
+bool(false)
+string(19) "HAS FRONT??? -----^"
+string(26) "PUBLIC BITSTREAM COUNT = 1"
+string(28) "INTERNAL BITSTREAM COUNT = 1"
+string(45) "THE PUBLIC IS LESS THAN OR = TOO THE INTERNAL"
+string(35) "NOTHINGS WRONG WITH JPG: 2BL-85.jpg"
+array(1) {
+  [0]=>
+  object(InternalBitstream)#21 (4) {
+    ["name"]=>
+    string(10) "2BL-85.jpg"
+    ["type"]=>
+    string(8) "frontJPG"
+    ["md5_checksum"]=>
+    string(32) "47c301b923d3a18d42a744a1fe6c2b84"
+    ["path"]=>
+    string(43) "M:/BlucherCollection/uploads/2BL/2BL-85.jpg"
+  }
+}
+
+Notice: Undefined variable: dpsaceID in C:\xampp\htdocs\BandoCat\TDLPublish\UpdateCron\updatecron.php on line 689
+Array
+(
+    [url] => https://tamucc-ir.tdl.org/rest/items//metadata
+    [content_type] => text/html;charset=utf-8
+    [http_code] => 404
+    [header_size] => 281
+    [request_size] => 235
+    [filetime] => -1
+    [ssl_verify_result] => 0
+    [redirect_count] => 0
+    [total_time] => 0.266
+    [namelookup_time] => 0.016
+    [connect_time] => 0.047
+    [pretransfer_time] => 0.187
+    [size_upload] => 1611
+    [size_download] => 1078
+    [speed_download] => 1078
+    [speed_upload] => 1611
+    [download_content_length] => 1078
+    [upload_content_length] => 1611
+    [starttransfer_time] => 0.219
+    [redirect_time] => 0
+    [redirect_url] => 
+    [primary_ip] => 54.172.26.191
+    [certinfo] => Array
+        (
+        )
+
+    [primary_port] => 443
+    [local_ip] => 10.20.2.148
+    [local_port] => 61657
+)
+bool(false)
+string(19) "HAS FRONT??? -----^"
+string(26) "PUBLIC BITSTREAM COUNT = 1"
+string(28) "INTERNAL BITSTREAM COUNT = 1"
+string(45) "THE PUBLIC IS LESS THAN OR = TOO THE INTERNAL"
+string(35) "NOTHINGS WRONG WITH JPG: 2BL-86.jpg"
+array(1) {
+  [0]=>
+  object(InternalBitstream)#26 (4) {
+    ["name"]=>
+    string(10) "2BL-86.jpg"
+    ["type"]=>
+    string(8) "frontJPG"
+    ["md5_checksum"]=>
+    string(32) "8839772bcbc6b55d0a03ac6d513f6cd1"
+    ["path"]=>
+    string(43) "M:/BlucherCollection/uploads/2BL/2BL-86.jpg"
+  }
+}
+
+Notice: Undefined variable: dpsaceID in C:\xampp\htdocs\BandoCat\TDLPublish\UpdateCron\updatecron.php on line 689
+Array
+(
+    [url] => https://tamucc-ir.tdl.org/rest/items//metadata
+    [content_type] => text/html;charset=utf-8
+    [http_code] => 404
+    [header_size] => 281
+    [request_size] => 235
+    [filetime] => -1
+    [ssl_verify_result] => 0
+    [redirect_count] => 0
+    [total_time] => 0.265
+    [namelookup_time] => 0.015
+    [connect_time] => 0.047
+    [pretransfer_time] => 0.187
+    [size_upload] => 1537
+    [size_download] => 1078
+    [speed_download] => 1078
+    [speed_upload] => 1537
+    [download_content_length] => 1078
+    [upload_content_length] => 1537
+    [starttransfer_time] => 0.218
+    [redirect_time] => 0
+    [redirect_url] => 
+    [primary_ip] => 54.172.26.191
+    [certinfo] => Array
+        (
+        )
+
+    [primary_port] => 443
+    [local_ip] => 10.20.2.148
+    [local_port] => 61660
+)
+bool(false)
+string(19) "HAS FRONT??? -----^"
+string(26) "PUBLIC BITSTREAM COUNT = 1"
+string(28) "INTERNAL BITSTREAM COUNT = 1"
+string(45) "THE PUBLIC IS LESS THAN OR = TOO THE INTERNAL"
+string(35) "NOTHINGS WRONG WITH JPG: 2BL-87.jpg"
+array(1) {
+  [0]=>
+  object(InternalBitstream)#25 (4) {
+    ["name"]=>
+    string(10) "2BL-87.jpg"
+    ["type"]=>
+    string(8) "frontJPG"
+    ["md5_checksum"]=>
+    string(32) "0226951a4b7f7b78db857e25bbc2d99f"
+    ["path"]=>
+    string(43) "M:/BlucherCollection/uploads/2BL/2BL-87.jpg"
+  }
+}
+
+Notice: Undefined variable: dpsaceID in C:\xampp\htdocs\BandoCat\TDLPublish\UpdateCron\updatecron.php on line 689
+Array
+(
+    [url] => https://tamucc-ir.tdl.org/rest/items//metadata
+    [content_type] => text/html;charset=utf-8
+    [http_code] => 404
+    [header_size] => 281
+    [request_size] => 235
+    [filetime] => -1
+    [ssl_verify_result] => 0
+    [redirect_count] => 0
+    [total_time] => 0.266
+    [namelookup_time] => 0.016
+    [connect_time] => 0.047
+    [pretransfer_time] => 0.172
+    [size_upload] => 1596
+    [size_download] => 1078
+    [speed_download] => 1078
+    [speed_upload] => 1596
+    [download_content_length] => 1078
+    [upload_content_length] => 1596
+    [starttransfer_time] => 0.219
+    [redirect_time] => 0
+    [redirect_url] => 
+    [primary_ip] => 54.172.26.191
+    [certinfo] => Array
+        (
+        )
+
+    [primary_port] => 443
+    [local_ip] => 10.20.2.148
+    [local_port] => 61663
+)
+bool(false)
+string(19) "HAS FRONT??? -----^"
+string(26) "PUBLIC BITSTREAM COUNT = 1"
+string(28) "INTERNAL BITSTREAM COUNT = 1"
+string(45) "THE PUBLIC IS LESS THAN OR = TOO THE INTERNAL"
+string(35) "NOTHINGS WRONG WITH JPG: 2BL-88.jpg"
+array(1) {
+  [0]=>
+  object(InternalBitstream)#16 (4) {
+    ["name"]=>
+    string(10) "2BL-88.jpg"
+    ["type"]=>
+    string(8) "frontJPG"
+    ["md5_checksum"]=>
+    string(32) "6382c0330e0ebf13d06dd0dd723f8015"
+    ["path"]=>
+    string(43) "M:/BlucherCollection/uploads/2BL/2BL-88.jpg"
+  }
+}
+
+Notice: Undefined variable: dpsaceID in C:\xampp\htdocs\BandoCat\TDLPublish\UpdateCron\updatecron.php on line 689
+Array
+(
+    [url] => https://tamucc-ir.tdl.org/rest/items//metadata
+    [content_type] => text/html;charset=utf-8
+    [http_code] => 404
+    [header_size] => 281
+    [request_size] => 235
+    [filetime] => -1
+    [ssl_verify_result] => 0
+    [redirect_count] => 0
+    [total_time] => 0.265
+    [namelookup_time] => 0.015
+    [connect_time] => 0.046
+    [pretransfer_time] => 0.171
+    [size_upload] => 1600
+    [size_download] => 1078
+    [speed_download] => 1078
+    [speed_upload] => 1600
+    [download_content_length] => 1078
+    [upload_content_length] => 1600
+    [starttransfer_time] => 0.218
+    [redirect_time] => 0
+    [redirect_url] => 
+    [primary_ip] => 54.172.26.191
+    [certinfo] => Array
+        (
+        )
+
+    [primary_port] => 443
+    [local_ip] => 10.20.2.148
+    [local_port] => 61666
+)
+bool(false)
+string(19) "HAS FRONT??? -----^"
+string(26) "PUBLIC BITSTREAM COUNT = 1"
+string(28) "INTERNAL BITSTREAM COUNT = 1"
+string(45) "THE PUBLIC IS LESS THAN OR = TOO THE INTERNAL"
+string(35) "NOTHINGS WRONG WITH JPG: 2BL-89.jpg"
+array(1) {
+  [0]=>
+  object(InternalBitstream)#9 (4) {
+    ["name"]=>
+    string(10) "2BL-89.jpg"
+    ["type"]=>
+    string(8) "frontJPG"
+    ["md5_checksum"]=>
+    string(32) "46287021017ef4d38b28d893b11d1cf8"
+    ["path"]=>
+    string(43) "M:/BlucherCollection/uploads/2BL/2BL-89.jpg"
+  }
+}
+
+Notice: Undefined variable: dpsaceID in C:\xampp\htdocs\BandoCat\TDLPublish\UpdateCron\updatecron.php on line 689
+Array
+(
+    [url] => https://tamucc-ir.tdl.org/rest/items//metadata
+    [content_type] => text/html;charset=utf-8
+    [http_code] => 404
+    [header_size] => 281
+    [request_size] => 235
+    [filetime] => -1
+    [ssl_verify_result] => 0
+    [redirect_count] => 0
+    [total_time] => 0.282
+    [namelookup_time] => 0.032
+    [connect_time] => 0.078
+    [pretransfer_time] => 0.203
+    [size_upload] => 1770
+    [size_download] => 1078
+    [speed_download] => 1078
+    [speed_upload] => 1770
+    [download_content_length] => 1078
+    [upload_content_length] => 1770
+    [starttransfer_time] => 0.235
+    [redirect_time] => 0
+    [redirect_url] => 
+    [primary_ip] => 54.172.26.191
+    [certinfo] => Array
+        (
+        )
+
+    [primary_port] => 443
+    [local_ip] => 10.20.2.148
+    [local_port] => 61669
+)
+bool(true)
+string(19) "HAS FRONT??? -----^"
+string(26) "PUBLIC BITSTREAM COUNT = 3"
+string(28) "INTERNAL BITSTREAM COUNT = 3"
+string(45) "THE PUBLIC IS LESS THAN OR = TOO THE INTERNAL"
+string(35) "NOTHINGS WRONG WITH JPG: 2BL-90.jpg"
+string(46) "NOTHINGS WRONG WITH TIFF: 2BL-90_rectified.tif"
+string(35) "NOTHINGS WRONG WITH KMZ: 2BL-90.kmz"
+array(3) {
+  [0]=>
+  object(InternalBitstream)#24 (4) {
+    ["name"]=>
+    string(10) "2BL-90.jpg"
+    ["type"]=>
+    string(8) "frontJPG"
+    ["md5_checksum"]=>
+    string(32) "73c703afaab035b4fd3a96bed1458fde"
+    ["path"]=>
+    string(43) "M:/BlucherCollection/uploads/2BL/2BL-90.jpg"
+  }
+  [1]=>
+  object(InternalBitstream)#26 (4) {
+    ["name"]=>
+    string(20) "2BL-90_rectified.tif"
+    ["type"]=>
+    string(12) "frontGeoTIFF"
+    ["md5_checksum"]=>
+    string(32) "a0ba96881e44af85011973200483b15d"
+    ["path"]=>
+    string(52) "M:/BlucherCollection/georec/2BL/2BL-90_rectified.tif"
+  }
+  [2]=>
+  object(InternalBitstream)#27 (4) {
+    ["name"]=>
+    string(10) "2BL-90.kmz"
+    ["type"]=>
+    string(8) "frontKMZ"
+    ["md5_checksum"]=>
+    string(32) "b75de1b16a372501bf1ecfd0d9bd8fd5"
+    ["path"]=>
+    string(42) "M:/BlucherCollection/georec/2BL/2BL-90.kmz"
+  }
+}
+
+Notice: Undefined variable: dpsaceID in C:\xampp\htdocs\BandoCat\TDLPublish\UpdateCron\updatecron.php on line 689
+Array
+(
+    [url] => https://tamucc-ir.tdl.org/rest/items//metadata
+    [content_type] => text/html;charset=utf-8
+    [http_code] => 404
+    [header_size] => 281
+    [request_size] => 235
+    [filetime] => -1
+    [ssl_verify_result] => 0
+    [redirect_count] => 0
+    [total_time] => 0.265
+    [namelookup_time] => 0.015
+    [connect_time] => 0.046
+    [pretransfer_time] => 0.171
+    [size_upload] => 1608
+    [size_download] => 1078
+    [speed_download] => 1078
+    [speed_upload] => 1608
+    [download_content_length] => 1078
+    [upload_content_length] => 1608
+    [starttransfer_time] => 0.218
+    [redirect_time] => 0
+    [redirect_url] => 
+    [primary_ip] => 54.172.26.191
+    [certinfo] => Array
+        (
+        )
+
+    [primary_port] => 443
+    [local_ip] => 10.20.2.148
+    [local_port] => 61672
+)
+bool(false)
+string(19) "HAS FRONT??? -----^"
+string(26) "PUBLIC BITSTREAM COUNT = 1"
+string(28) "INTERNAL BITSTREAM COUNT = 1"
+string(45) "THE PUBLIC IS LESS THAN OR = TOO THE INTERNAL"
+string(35) "NOTHINGS WRONG WITH JPG: 2BL-91.jpg"
+array(1) {
+  [0]=>
+  object(InternalBitstream)#26 (4) {
+    ["name"]=>
+    string(10) "2BL-91.jpg"
+    ["type"]=>
+    string(8) "frontJPG"
+    ["md5_checksum"]=>
+    string(32) "d7d44e9a142f582a6c5de6bfb9e453d5"
+    ["path"]=>
+    string(43) "M:/BlucherCollection/uploads/2BL/2BL-91.jpg"
+  }
+}
+
+Notice: Undefined variable: dpsaceID in C:\xampp\htdocs\BandoCat\TDLPublish\UpdateCron\updatecron.php on line 689
+Array
+(
+    [url] => https://tamucc-ir.tdl.org/rest/items//metadata
+    [content_type] => text/html;charset=utf-8
+    [http_code] => 404
+    [header_size] => 281
+    [request_size] => 235
+    [filetime] => -1
+    [ssl_verify_result] => 0
+    [redirect_count] => 0
+    [total_time] => 0.266
+    [namelookup_time] => 0.016
+    [connect_time] => 0.047
+    [pretransfer_time] => 0.172
+    [size_upload] => 1601
+    [size_download] => 1078
+    [speed_download] => 1078
+    [speed_upload] => 1601
+    [download_content_length] => 1078
+    [upload_content_length] => 1601
+    [starttransfer_time] => 0.219
+    [redirect_time] => 0
+    [redirect_url] => 
+    [primary_ip] => 54.172.26.191
+    [certinfo] => Array
+        (
+        )
+
+    [primary_port] => 443
+    [local_ip] => 10.20.2.148
+    [local_port] => 61675
+)
+bool(false)
+string(19) "HAS FRONT??? -----^"
+string(26) "PUBLIC BITSTREAM COUNT = 1"
+string(28) "INTERNAL BITSTREAM COUNT = 1"
+string(45) "THE PUBLIC IS LESS THAN OR = TOO THE INTERNAL"
+string(35) "NOTHINGS WRONG WITH JPG: 2BL-92.jpg"
+array(1) {
+  [0]=>
+  object(InternalBitstream)#15 (4) {
+    ["name"]=>
+    string(10) "2BL-92.jpg"
+    ["type"]=>
+    string(8) "frontJPG"
+    ["md5_checksum"]=>
+    string(32) "992cab352efe64921d99a642fb08f364"
+    ["path"]=>
+    string(43) "M:/BlucherCollection/uploads/2BL/2BL-92.jpg"
+  }
+}
+
+Notice: Undefined variable: dpsaceID in C:\xampp\htdocs\BandoCat\TDLPublish\UpdateCron\updatecron.php on line 689
+Array
+(
+    [url] => https://tamucc-ir.tdl.org/rest/items//metadata
+    [content_type] => text/html;charset=utf-8
+    [http_code] => 404
+    [header_size] => 281
+    [request_size] => 235
+    [filetime] => -1
+    [ssl_verify_result] => 0
+    [redirect_count] => 0
+    [total_time] => 0.266
+    [namelookup_time] => 0.016
+    [connect_time] => 0.047
+    [pretransfer_time] => 0.172
+    [size_upload] => 1678
+    [size_download] => 1078
+    [speed_download] => 1078
+    [speed_upload] => 1678
+    [download_content_length] => 1078
+    [upload_content_length] => 1678
+    [starttransfer_time] => 0.219
+    [redirect_time] => 0
+    [redirect_url] => 
+    [primary_ip] => 54.172.26.191
+    [certinfo] => Array
+        (
+        )
+
+    [primary_port] => 443
+    [local_ip] => 10.20.2.148
+    [local_port] => 61678
+)
+bool(false)
+string(19) "HAS FRONT??? -----^"
+string(26) "PUBLIC BITSTREAM COUNT = 1"
+string(28) "INTERNAL BITSTREAM COUNT = 1"
+string(45) "THE PUBLIC IS LESS THAN OR = TOO THE INTERNAL"
+string(35) "NOTHINGS WRONG WITH JPG: 2BL-93.jpg"
+array(1) {
+  [0]=>
+  object(InternalBitstream)#18 (4) {
+    ["name"]=>
+    string(10) "2BL-93.jpg"
+    ["type"]=>
+    string(8) "frontJPG"
+    ["md5_checksum"]=>
+    string(32) "25c87dc157924f4bfba2a4429d86c332"
+    ["path"]=>
+    string(43) "M:/BlucherCollection/uploads/2BL/2BL-93.jpg"
+  }
+}
+
+Notice: Undefined variable: dpsaceID in C:\xampp\htdocs\BandoCat\TDLPublish\UpdateCron\updatecron.php on line 689
+Array
+(
+    [url] => https://tamucc-ir.tdl.org/rest/items//metadata
+    [content_type] => text/html;charset=utf-8
+    [http_code] => 404
+    [header_size] => 281
+    [request_size] => 235
+    [filetime] => -1
+    [ssl_verify_result] => 0
+    [redirect_count] => 0
+    [total_time] => 0.266
+    [namelookup_time] => 0.016
+    [connect_time] => 0.047
+    [pretransfer_time] => 0.172
+    [size_upload] => 1600
+    [size_download] => 1078
+    [speed_download] => 1078
+    [speed_upload] => 1600
+    [download_content_length] => 1078
+    [upload_content_length] => 1600
+    [starttransfer_time] => 0.219
+    [redirect_time] => 0
+    [redirect_url] => 
+    [primary_ip] => 54.172.26.191
+    [certinfo] => Array
+        (
+        )
+
+    [primary_port] => 443
+    [local_ip] => 10.20.2.148
+    [local_port] => 61683
+)
+bool(false)
+string(19) "HAS FRONT??? -----^"
+string(26) "PUBLIC BITSTREAM COUNT = 1"
+string(28) "INTERNAL BITSTREAM COUNT = 1"
+string(45) "THE PUBLIC IS LESS THAN OR = TOO THE INTERNAL"
+string(35) "NOTHINGS WRONG WITH JPG: 2BL-94.jpg"
+array(1) {
+  [0]=>
+  object(InternalBitstream)#11 (4) {
+    ["name"]=>
+    string(10) "2BL-94.jpg"
+    ["type"]=>
+    string(8) "frontJPG"
+    ["md5_checksum"]=>
+    string(32) "adbf2d4e08152160753ff8f47740df77"
+    ["path"]=>
+    string(43) "M:/BlucherCollection/uploads/2BL/2BL-94.jpg"
+  }
+}
+
+Notice: Undefined variable: dpsaceID in C:\xampp\htdocs\BandoCat\TDLPublish\UpdateCron\updatecron.php on line 689
+Array
+(
+    [url] => https://tamucc-ir.tdl.org/rest/items//metadata
+    [content_type] => text/html;charset=utf-8
+    [http_code] => 404
+    [header_size] => 281
+    [request_size] => 235
+    [filetime] => -1
+    [ssl_verify_result] => 0
+    [redirect_count] => 0
+    [total_time] => 0.266
+    [namelookup_time] => 0.016
+    [connect_time] => 0.047
+    [pretransfer_time] => 0.172
+    [size_upload] => 1643
+    [size_download] => 1078
+    [speed_download] => 1078
+    [speed_upload] => 1643
+    [download_content_length] => 1078
+    [upload_content_length] => 1643
+    [starttransfer_time] => 0.219
+    [redirect_time] => 0
+    [redirect_url] => 
+    [primary_ip] => 54.172.26.191
+    [certinfo] => Array
+        (
+        )
+
+    [primary_port] => 443
+    [local_ip] => 10.20.2.148
+    [local_port] => 61686
+)
+Success!
